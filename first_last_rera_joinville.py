@@ -44,9 +44,6 @@ WORKER = os.getenv("PROXY_WORKER")
 if not WORKER:
     sys.exit("❌  PROXY_WORKER n’est pas défini")
 
-# (À compléter ici LOCAL_ZIP si nécessaire)
-# LOCAL_ZIP = Path("gtfs-latest.zip")
-
 def proxify(url: str) -> str:
     prefix = WORKER if WORKER.endswith("?url=") else WORKER + "?url="
     return f"{prefix}{quote_plus(url, safe='')}"
@@ -56,10 +53,11 @@ ATTACH_API = (
     "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/"
     "datasets/offre-horaires-tc-gtfs-idfm/attachments"
 )
+LOCAL_ZIP = Path("gtfs_idfm_latest.zip")  # Déclaration ici
 
 def latest_zip_url() -> str:
     """Retourne l’URL .zip la plus récente du dataset GTFS IDFM."""
-    resp = requests.get(proxify(ODS_ENDPOINT), timeout=30)
+    resp = requests.get(proxify(ATTACH_API), timeout=30)
     resp.raise_for_status()
     raw = resp.json()
     # Gestion de la structure de la réponse
