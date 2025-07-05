@@ -9,9 +9,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      # Proxy incluant déjà ?url=
-      PROXY_WORKER: "https://ratp-proxy.hippodrome-proxy42.workers.dev/?url="
+env:
+  # Proxy complet avec ?url=
+  PROXY_WORKER: "https://ratp-proxy.hippodrome-proxy42.workers.dev/?url="
+
     steps:
       - uses: actions/checkout@v4
 
