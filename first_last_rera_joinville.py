@@ -56,15 +56,17 @@ def latest_zip_url() -> str:
     raw = resp.json()
     attachments = raw["attachments"] if isinstance(raw, dict) else raw
 
+    # lien = att["url"] (et non "href")
     zips = [
-        (att["updated_at"], att.get("href") or att["url"])   # ← ici
+        (att["updated_at"], att["url"])
         for att in attachments
-        if (att.get("href") or att["url"]).lower().endswith(".zip")
+        if att["url"].lower().endswith(".zip")
     ]
     if not zips:
         raise RuntimeError("Aucun ZIP trouvé")
     zips.sort(reverse=True)
     return zips[0][1]
+
 
 def download_gtfs() -> Path:
     if LOCAL_ZIP.exists():
