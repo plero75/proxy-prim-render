@@ -1,0 +1,27 @@
+name: Mise à jour horaires RER A
+
+on:
+  schedule:
+    - cron: '0 4 * * *'   # tous les jours à 04 h UTC (=06 h Paris)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      IDFM_APIKEY: ${{ secrets.IDFM_APIKEY }}
+      PROXY_WORKER: https://ratp-proxy.hippodrome-proxy42.workers.dev/
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install -r requirements.txt
+      - run: |
+          python first_last_rera_joinville.py --save-json data/today.json
+      - name: Commit & push
+        run: |
+          git config user.name  "github-actions"
+          git config user.email "actions@github"
+          git add data/today.json
+          git commit -m "maj horaires $(date +%F)" || echo "No changes"
+          git push
