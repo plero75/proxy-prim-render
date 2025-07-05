@@ -44,6 +44,9 @@ WORKER = os.getenv("PROXY_WORKER")
 if not WORKER:
     sys.exit("❌  PROXY_WORKER n’est pas défini")
 
+# (À compléter ici LOCAL_ZIP si nécessaire)
+# LOCAL_ZIP = Path("gtfs-latest.zip")
+
 def proxify(url: str) -> str:
     prefix = WORKER if WORKER.endswith("?url=") else WORKER + "?url="
     return f"{prefix}{quote_plus(url, safe='')}"
