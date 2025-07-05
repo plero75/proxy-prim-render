@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+zi#!/usr/bin/env python3
 """
 Récupère le dernier GTFS (OpenDataSoft) via un worker-proxy puis calcule, pour
 la date donnée (aujourd’hui par défaut), le premier et le dernier passage du
@@ -49,22 +49,19 @@ ODS_ENDPOINT = (
 )
 
 def latest_zip_url() -> str:
-    """Renvoie l’URL .zip la plus récente depuis le dataset ODS."""
+    """Récupère l'URL .zip la plus récente du dataset GTFS IDFM (ODS)."""
     resp = requests.get(proxify(ODS_ENDPOINT), timeout=30)
     resp.raise_for_status()
-    data = resp.json()
+    raw = resp.json()
+    attachments = raw["attachments"] if isinstance(raw, dict) else raw
     zips = [(att["updated_at"], att["href"])
-            for att in data.get("attachments", [])
+            for att in attachments
             if att["href"].lower().endswith(".zip")]
     if not zips:
         raise RuntimeError("Aucun ZIP trouvé dans le dataset")
-    zips.sort(reverse=True)               # plus récent d’abord
+    zips.sort(reverse=True)
     return zips[0][1]
 
-# ────────────────────────── Téléchargement / cache ──────────────────
-CACHE_DIR = Path(__file__).with_suffix(".d")
-CACHE_DIR.mkdir(exist_ok=True)
-LOCAL_ZIP = CACHE_DIR / "gtfs_latest.zip"
 
 def download_gtfs() -> Path:
     if LOCAL_ZIP.exists():
