@@ -2,7 +2,7 @@ name: Mise à jour horaires RER A – Joinville
 
 on:
   schedule:
-    # chaque jour à 06 h (Paris)
+    # Tous les jours à 06 h (Paris) = 04 h UTC
     - cron: '0 4 * * *'
   workflow_dispatch:
 
@@ -10,10 +10,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      # évite de laisser l’URL proxy en clair
-      PROXY_WORKER: ${{ secrets.PROXY_WORKER }}
-      # si ton worker ajoute déjà Authorization: Apikey …, retire cette ligne
-      ODS_APIKEY:   ${{ secrets.ODS_APIKEY }}
+      PROXY_WORKER: ${{ secrets.PROXY_WORKER }}   # ➜ ton worker ?url=
+      ODS_APIKEY:   ${{ secrets.ODS_APIKEY }}     # ➜ ta clé ODS
     steps:
       - uses: actions/checkout@v4
 
@@ -30,14 +28,12 @@ jobs:
       - name: Generate JSON
         run: |
           mkdir -p data
-          # si le fichier n’existe pas encore, on le crée vide (évite git error)
-          [ -f data/today.json ] || echo '[]' > data/today.json
           python first_last_rera_joinville.py --save-json data/today.json
 
       - name: Commit & push if changed
         run: |
           git config --global user.name  "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.email "actions@github.com"
           if git status --porcelain | grep -q "data/today.json"; then
             git add data/today.json
             git commit -m "🤖 maj horaires $(date +%F)"
