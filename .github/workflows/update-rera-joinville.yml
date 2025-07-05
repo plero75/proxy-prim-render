@@ -2,19 +2,25 @@ name: Mise à jour horaires RER A – Joinville
 
 on:
   schedule:
-    - cron: '0 4 * * *'      # 04 h UTC = 06 h Paris
+    # chaque jour à 06 h (Paris)
+    - cron: '0 4 * * *'
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      PROXY_WORKER: "https://ratp-proxy.hippodrome-proxy42.workers.dev/?url="
+      # évite de laisser l’URL proxy en clair
+      PROXY_WORKER: ${{ secrets.PROXY_WORKER }}
+      # si ton worker ajoute déjà Authorization: Apikey …, retire cette ligne
+      ODS_APIKEY:   ${{ secrets.ODS_APIKEY }}
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
-        with: { python-version: '3.12' }
+        with:
+          python-version: '3.12'
+          cache: 'pip'
 
       - name: Install deps
         run: |
@@ -24,15 +30,17 @@ jobs:
       - name: Generate JSON
         run: |
           mkdir -p data
+          # si le fichier n’existe pas encore, on le crée vide (évite git error)
+          [ -f data/today.json ] || echo '[]' > data/today.json
           python first_last_rera_joinville.py --save-json data/today.json
 
       - name: Commit & push if changed
         run: |
-          git config user.name  "github-actions"
-          git config user.email "actions@github"
+          git config --global user.name  "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           if git status --porcelain | grep -q "data/today.json"; then
             git add data/today.json
-            git commit -m "maj horaires $(date +%F)"
+            git commit -m "🤖 maj horaires $(date +%F)"
             git push
           else
             echo "Pas de changement"
