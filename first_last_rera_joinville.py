@@ -55,26 +55,33 @@ ATTACH_API = (
 )
 
 def latest_zip_url() -> str:
-    """Renvoie l’URL .zip la plus récente dans les attachments."""
-    r = requests.get(proxify(ATTACH_API), timeout=30)
-    r.raise_for_status()
-    attachments = r.json()               # renvoie directement une LISTE
+    """Retourne l’URL .zip la plus récente du dataset GTFS IDFM."""
+    resp = requests.get(proxify(ODS_ENDPOINT), timeout=30)
+    resp.raise_for_status()
+    raw = resp.json()
+    # Gestion de la structure de la réponse
+    attachments = []
+    if isinstance(raw, dict):
+        if "attachments" in raw:
+            attachments = raw["attachments"]
+        elif "resources" in raw:
+            attachments = raw["resources"]
+        else:
+            print("Réponse API inattendue :", json.dumps(raw, indent=2, ensure_ascii=False), file=sys.stderr)
+            raise RuntimeError("Aucun champ 'attachments' ou 'resources' trouvé dans la réponse API")
+    else:
+        attachments = raw
+
     zips = [
-        (a["updated_at"], a["url"])
-        for a in attachments
-        if ("zip" in a.get("filename","").lower()
-            or "zip" in a.get("mimetype","").lower()
-            or "format=zip" in a["url"].lower())
+        (att["updated_at"], att["url"])
+        for att in attachments
+        if att.get("url", "").lower().endswith(".zip")
     ]
     if not zips:
-        raise RuntimeError("Aucun ZIP trouvé dans les attachments")
-    zips.sort(key=lambda t: t[0], reverse=True)
+        print("Réponse API :", json.dumps(raw, indent=2, ensure_ascii=False), file=sys.stderr)
+        raise RuntimeError("Aucun ZIP trouvé dans le dataset")
+    zips.sort(reverse=True)
     return zips[0][1]
-
-# ────────────────────────── Cache local ──────────────────
-CACHE_DIR = Path(__file__).with_suffix(".d")
-CACHE_DIR.mkdir(exist_ok=True)
-LOCAL_ZIP = CACHE_DIR / "gtfs_latest.zip"
 
 def download_gtfs() -> Path:
     if LOCAL_ZIP.exists():
