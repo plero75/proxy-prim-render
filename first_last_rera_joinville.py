@@ -1,20 +1,27 @@
 #!/usr/bin/env python3
 """
-Récupère le dernier GTFS (OpenDataSoft) via un worker-proxy Cloudflare
-puis calcule, pour la date donnée (aujourd’hui par défaut), le premier
+Récupère le dernier GTFS (OpenDataSoft) via un worker-proxy Cloudflare,
+puis calcule – pour la date donnée (aujourd’hui par défaut) – le premier
 et le dernier passage du RER A à Joinville-le-Pont (deux sens).
 
-Variable d’environnement obligatoire
+Variable d’environnement OBLIGATOIRE
 ------------------------------------
-PROXY_WORKER  = "https://<ton-worker>.workers.dev/?url="
+PROXY_WORKER = "https://<ton-worker>.workers.dev/?url="
 """
 
 from __future__ import annotations
-import argparse, datetime as dt, os, sys, json
+
+import argparse
+import datetime as dt
+import json
+import os
+import sys
 from pathlib import Path
 from urllib.parse import quote_plus
 
-import duckdb, pandas as pd, requests
+import duckdb
+import pandas as pd
+import requests
 from dateutil import tz
 from tqdm import tqdm
 
@@ -28,15 +35,15 @@ parser.add_argument(
 )
 parser.add_argument(
     "--save-json", metavar="FICHIER",
-    help="Écrit aussi le résultat dans ce fichier JSON",
+    help="Enregistre aussi le résultat dans ce fichier JSON",
 )
 args = parser.parse_args()
 
-DAY       = args.date
-ROUTE_ID  = "STIF:Line::C01742:"           # identifiant RER A
+DAY      = args.date
+ROUTE_ID = "STIF:Line::C01742:"  # identifiant RER A
 
 # ────────────────────────── worker-proxy ───────────────────────────
-WORKER = os.getenv("PROXY_WORKER")         # …/workers.dev/?url=
+WORKER = os.getenv("PROXY_WORKER")  # …/workers.dev/?url=
 if not WORKER:
     sys.exit("❌  PROXY_WORKER n’est pas défini")
 
@@ -51,29 +58,33 @@ ODS_ENDPOINT = (
 )
 
 def latest_zip_url() -> str:
+    """Retourne l’URL .zip la plus récente du dataset GTFS IDFM."""
     resp = requests.get(proxify(ODS_ENDPOINT), timeout=30)
     resp.raise_for_status()
     raw = resp.json()
     attachments = raw["attachments"] if isinstance(raw, dict) else raw
 
-    # lien = att["url"] (et non "href")
     zips = [
-        (att["updated_at"], att["url"])
+        (att["updated_at"], att["url"])                # champs URL
         for att in attachments
         if att["url"].lower().endswith(".zip")
     ]
     if not zips:
-        raise RuntimeError("Aucun ZIP trouvé")
-    zips.sort(reverse=True)
+        raise RuntimeError("Aucun ZIP trouvé dans le dataset")
+    zips.sort(reverse=True)                           # plus récent d’abord
     return zips[0][1]
 
+# ────────────────────────── cache local du ZIP ─────────────────────
+CACHE_DIR = Path(__file__).with_suffix(".d")
+CACHE_DIR.mkdir(exist_ok=True)
+LOCAL_ZIP = CACHE_DIR / "gtfs_latest.zip"
 
 def download_gtfs() -> Path:
     if LOCAL_ZIP.exists():
         return LOCAL_ZIP
-    zip_url = latest_zip_url()
+    url = latest_zip_url()
     print("⬇️  Téléchargement du GTFS IDFM …")
-    with requests.get(proxify(zip_url), stream=True, timeout=60) as r:
+    with requests.get(proxify(url), stream=True, timeout=60) as r:
         r.raise_for_status()
         total = int(r.headers.get("content-length", 0))
         with tqdm(total=total, unit="o", unit_scale=True) as bar, LOCAL_ZIP.open("wb") as f:
@@ -88,6 +99,7 @@ zip_path = download_gtfs()
 con = duckdb.connect()
 con.execute("INSTALL httpfs; LOAD httpfs")
 csv = lambda p: f"zip://{p}?{zip_path}"
+
 con.execute(f"CREATE VIEW stops      AS SELECT * FROM read_csv_auto('{csv('stops.txt')}');")
 con.execute(f"CREATE VIEW stop_times AS SELECT * FROM read_csv_auto('{csv('stop_times.txt')}');")
 con.execute(f"CREATE VIEW trips      AS SELECT * FROM read_csv_auto('{csv('trips.txt')}');")
@@ -106,6 +118,7 @@ STOP_IDS = tuple(stops["stop_id"])
 # ────────────────────────── services actifs ───────────────────────
 day_int = int(DAY.strftime("%Y%m%d"))
 weekday = ["sunday","monday","tuesday","wednesday","thursday","friday","saturday"][DAY.weekday()]
+
 service_ids = con.execute(f"""
     SELECT service_id FROM calendar
     WHERE {day_int} BETWEEN start_date AND end_date AND {weekday}=1
@@ -147,6 +160,7 @@ for _, row in result.iterrows():
     print(f"{lbl.get(row['direction_id'], row['direction_id'])}")
     print(f"  Premier : {row['first_time']}\n  Dernier  : {row['last_time']}\n")
 
+# ────────────────────────── export JSON optionnel ──────────────────
 if args.save_json:
     out = result.rename(columns={
         "direction_id": "direction",
