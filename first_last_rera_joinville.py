@@ -51,26 +51,20 @@ ODS_ENDPOINT = (
 )
 
 def latest_zip_url() -> str:
-    """Renvoie l’URL .zip la plus récente du dataset GTFS IDFM."""
     resp = requests.get(proxify(ODS_ENDPOINT), timeout=30)
     resp.raise_for_status()
     raw = resp.json()
-    # L’API peut renvoyer soit {"attachments":[...]}, soit directement la liste
     attachments = raw["attachments"] if isinstance(raw, dict) else raw
+
     zips = [
-        (att["updated_at"], att["href"])
+        (att["updated_at"], att.get("href") or att["url"])   # ← ici
         for att in attachments
-        if att["href"].lower().endswith(".zip")
+        if (att.get("href") or att["url"]).lower().endswith(".zip")
     ]
     if not zips:
-        raise RuntimeError("Aucun ZIP trouvé dans le dataset")
+        raise RuntimeError("Aucun ZIP trouvé")
     zips.sort(reverse=True)
     return zips[0][1]
-
-# ────────────────────────── téléchargement / cache ─────────────────
-CACHE_DIR  = Path(__file__).with_suffix(".d")
-CACHE_DIR.mkdir(exist_ok=True)
-LOCAL_ZIP  = CACHE_DIR / "gtfs_latest.zip"
 
 def download_gtfs() -> Path:
     if LOCAL_ZIP.exists():
