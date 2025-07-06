@@ -1,0 +1,382 @@
+{
+  "NEGE": [
+    {
+      "mission": "446776fb-f6d1-4df5-91e2-04e9ec31b43d",
+      "heure": "11:51",
+      "destination": "NEGE",
+      "gares_restantes": [
+        "Joinville-le-Pont",
+        "Saint-Maur - Créteil",
+        "Le Parc de Saint-Maur",
+        "Champigny",
+        "La Varenne - Chennevières",
+        "Sucy - Bonneuil",
+        "Boissy-Saint-Léger"
+      ]
+    },
+    {
+      "mission": "ce6c34df-f155-4b41-88a4-2e522b541a24",
+      "heure": "12:01",
+      "destination": "NEGE",
+      "gares_restantes": [
+        "Joinville-le-Pont",
+        "Saint-Maur - Créteil",
+        "Le Parc de Saint-Maur",
+        "Champigny",
+        "La Varenne - Chennevières",
+        "Sucy - Bonneuil",
+        "Boissy-Saint-Léger"
+      ]
+    },
+    {
+      "mission": "1f0d2531-6a95-4651-9e5a-8a640520b28c",
+      "heure": "12:11",
+      "destination": "NEGE",
+      "gares_restantes": [
+        "Joinville-le-Pont",
+        "Saint-Maur - Créteil",
+        "Le Parc de Saint-Maur",
+        "Champigny",
+        "La Varenne - Chennevières",
+        "Sucy - Bonneuil",
+        "Boissy-Saint-Léger"
+      ]
+    },
+    {
+      "mission": "53443e88-0d0b-417d-9bfc-fdddff5f8c80",
+      "heure": "12:21",
+      "destination": "NEGE",
+      "gares_restantes": [
+        "Joinville-le-Pont",
+        "Saint-Maur - Créteil",
+        "Le Parc de Saint-Maur",
+        "Champigny",
+        "La Varenne - Chennevières",
+        "Sucy - Bonneuil",
+        "Boissy-Saint-Léger"
+      ]
+    }
+  ],
+  "NELY": [
+    {
+      "mission": "1bf695a2-1623-4af7-8b2a-34c83d3aafa3",
+      "heure": "12:31",
+      "destination": "NELY",
+      "gares_restantes": [
+        "Joinville-le-Pont",
+        "Saint-Maur - Créteil",
+        "Le Parc de Saint-Maur",
+        "Champigny",
+        "La Varenne - Chennevières",
+        "Sucy - Bonneuil",
+        "Boissy-Saint-Léger"
+      ]
+    },
+    {
+      "mission": "7670419b-6ca8-42e9-bb5b-44aa93009653",
+      "heure": "12:41",
+      "destination": "NELY",
+      "gares_restantes": [
+        "Joinville-le-Pont",
+        "Saint-Maur - Créteil",
+        "Le Parc de Saint-Maur",
+        "Champigny",
+        "La Varenne - Chennevières",
+        "Sucy - Bonneuil",
+        "Boissy-Saint-Léger"
+      ]
+    },
+    {
+      "mission": "33930513-57ff-48cb-9678-d31b7323e17d",
+      "heure": "12:51",
+      "destination": "NELY",
+      "gares_restantes": [
+        "Joinville-le-Pont",
+        "Saint-Maur - Créteil",
+        "Le Parc de Saint-Maur",
+        "Champigny",
+        "La Varenne - Chennevières",
+        "Sucy - Bonneuil",
+        "Boissy-Saint-Léger"
+      ]
+    },
+    {
+      "mission": "0572b9ec-2fe8-479a-b56a-cab9c0da98d0",
+      "heure": "13:01",
+      "destination": "NELY",
+      "gares_restantes": [
+        "Joinville-le-Pont",
+        "Saint-Maur - Créteil",
+        "Le Parc de Saint-Maur",
+        "Champigny",
+        "La Varenne - Chennevières",
+        "Sucy - Bonneuil",
+        "Boissy-Saint-Léger"
+      ]
+    }
+  ],
+  "NEMO": [
+    {
+      "mission": "96597ce9-ee87-413b-b287-232c2b7578d5",
+      "heure": "20:44",
+      "destination": "NEMO",
+      "gares_restantes": [
+        "Joinville-le-Pont",
+        "Saint-Maur - Créteil",
+        "Le Parc de Saint-Maur",
+        "Champigny",
+        "La Varenne - Chennevières",
+        "Sucy - Bonneuil",
+        "Boissy-Saint-Léger"
+      ]
+    },
+    {
+      "mission": "41d5febb-e4e4-4188-90e0-8680e8a19879",
+      "heure": "20:58",
+      "destination": "NEMO",
+      "gares_restantes": [
+        "Joinville-le-Pont",
+        "Saint-Maur - Créteil",
+        "Le Parc de Saint-Maur",
+        "Champigny",
+        "La Varenne - Chennevières",
+        "Sucy - Bonneuil",
+        "Boissy-Saint-Léger"
+      ]
+    },
+    {
+      "mission": "4dd2a2c7-e9a7-4153-84c0-55fc3dcd8c3f",
+      "heure": "21:13",
+      "destination": "NEMO",
+      "gares_restantes": [
+        "Joinville-le-Pont",
+        "Saint-Maur - Créteil",
+        "Le Parc de Saint-Maur",
+        "Champigny",
+        "La Varenne - Chennevières",
+        "Sucy - Bonneuil",
+        "Boissy-Saint-Léger"
+      ]
+    },
+    {
+      "mission": "3d2b4d01-58bc-4338-8790-cdbeb0c465d5",
+      "heure": "21:28",
+      "destination": "NEMO",
+      "gares_restantes": [
+        "Joinville-le-Pont",
+        "Saint-Maur - Créteil",
+        "Le Parc de Saint-Maur",
+        "Champigny",
+        "La Varenne - Chennevières",
+        "Sucy - Bonneuil",
+        "Boissy-Saint-Léger"
+      ]
+    }
+  ],
+  "YRZZ": [],
+  "ZEBU": [],
+  "ZEMA": [
+    {
+      "mission": "cef24cfa-9277-457a-8109-a19bef62b81d",
+      "heure": "20:01",
+      "destination": "ZEMA",
+      "gares_restantes": [
+        "Joinville-le-Pont",
+        "Nogent-sur-Marne",
+        "Fontenay-sous-Bois",
+        "Vincennes",
+        "Nation",
+        "Gare de Lyon",
+        "Châtelet les Halles",
+        "Auber",
+        "Charles de Gaulle - Etoile",
+        "La Défense",
+        "Nanterre Préfecture",
+        "Nanterre Université",
+        "Nanterre Ville",
+        "Rueil-Malmaison",
+        "Chatou - Croissy",
+        "Le Vésinet - Centre",
+        "Le Vésinet - Le Pecq",
+        "Saint-Germain-en-Laye"
+      ]
+    },
+    {
+      "mission": "7c76cd7a-8d1c-4ccd-a72e-bc9c1fec4a1c",
+      "heure": "20:16",
+      "destination": "ZEMA",
+      "gares_restantes": [
+        "Joinville-le-Pont",
+        "Nogent-sur-Marne",
+        "Fontenay-sous-Bois",
+        "Vincennes",
+        "Nation",
+        "Gare de Lyon",
+        "Châtelet les Halles",
+        "Auber",
+        "Charles de Gaulle - Etoile",
+        "La Défense",
+        "Nanterre Préfecture",
+        "Nanterre Université",
+        "Nanterre Ville",
+        "Rueil-Malmaison",
+        "Chatou - Croissy",
+        "Le Vésinet - Centre",
+        "Le Vésinet - Le Pecq",
+        "Saint-Germain-en-Laye"
+      ]
+    },
+    {
+      "mission": "3803ff27-6896-4e1f-81f4-edfb34f09975",
+      "heure": "20:31",
+      "destination": "ZEMA",
+      "gares_restantes": [
+        "Joinville-le-Pont",
+        "Nogent-sur-Marne",
+        "Fontenay-sous-Bois",
+        "Vincennes",
+        "Nation",
+        "Gare de Lyon",
+        "Châtelet les Halles",
+        "Auber",
+        "Charles de Gaulle - Etoile",
+        "La Défense",
+        "Nanterre Préfecture",
+        "Nanterre Université",
+        "Nanterre Ville",
+        "Rueil-Malmaison",
+        "Chatou - Croissy",
+        "Le Vésinet - Centre",
+        "Le Vésinet - Le Pecq",
+        "Saint-Germain-en-Laye"
+      ]
+    },
+    {
+      "mission": "0dbedecf-2f01-4867-979f-7cc2e8f5619a",
+      "heure": "20:47",
+      "destination": "ZEMA",
+      "gares_restantes": [
+        "Joinville-le-Pont",
+        "Nogent-sur-Marne",
+        "Fontenay-sous-Bois",
+        "Vincennes",
+        "Nation",
+        "Gare de Lyon",
+        "Châtelet les Halles",
+        "Auber",
+        "Charles de Gaulle - Etoile",
+        "La Défense",
+        "Nanterre Préfecture",
+        "Nanterre Université",
+        "Nanterre Ville",
+        "Rueil-Malmaison",
+        "Chatou - Croissy",
+        "Le Vésinet - Centre",
+        "Le Vésinet - Le Pecq",
+        "Saint-Germain-en-Laye"
+      ]
+    }
+  ],
+  "ZEUS": [
+    {
+      "mission": "555a6bd4-4cdc-46d3-808a-00ab6c073abc",
+      "heure": "11:45",
+      "destination": "ZEUS",
+      "gares_restantes": [
+        "Joinville-le-Pont",
+        "Nogent-sur-Marne",
+        "Fontenay-sous-Bois",
+        "Vincennes",
+        "Nation",
+        "Gare de Lyon",
+        "Châtelet les Halles",
+        "Auber",
+        "Charles de Gaulle - Etoile",
+        "La Défense",
+        "Nanterre Préfecture",
+        "Nanterre Université",
+        "Nanterre Ville",
+        "Rueil-Malmaison",
+        "Chatou - Croissy",
+        "Le Vésinet - Centre",
+        "Le Vésinet - Le Pecq",
+        "Saint-Germain-en-Laye"
+      ]
+    },
+    {
+      "mission": "f347ff1f-5fb8-481c-8089-ed9bc95befd3",
+      "heure": "11:55",
+      "destination": "ZEUS",
+      "gares_restantes": [
+        "Joinville-le-Pont",
+        "Nogent-sur-Marne",
+        "Fontenay-sous-Bois",
+        "Vincennes",
+        "Nation",
+        "Gare de Lyon",
+        "Châtelet les Halles",
+        "Auber",
+        "Charles de Gaulle - Etoile",
+        "La Défense",
+        "Nanterre Préfecture",
+        "Nanterre Université",
+        "Nanterre Ville",
+        "Rueil-Malmaison",
+        "Chatou - Croissy",
+        "Le Vésinet - Centre",
+        "Le Vésinet - Le Pecq",
+        "Saint-Germain-en-Laye"
+      ]
+    },
+    {
+      "mission": "7441577b-9ed6-480f-8338-e525200936b8",
+      "heure": "12:05",
+      "destination": "ZEUS",
+      "gares_restantes": [
+        "Joinville-le-Pont",
+        "Nogent-sur-Marne",
+        "Fontenay-sous-Bois",
+        "Vincennes",
+        "Nation",
+        "Gare de Lyon",
+        "Châtelet les Halles",
+        "Auber",
+        "Charles de Gaulle - Etoile",
+        "La Défense",
+        "Nanterre Préfecture",
+        "Nanterre Université",
+        "Nanterre Ville",
+        "Rueil-Malmaison",
+        "Chatou - Croissy",
+        "Le Vésinet - Centre",
+        "Le Vésinet - Le Pecq",
+        "Saint-Germain-en-Laye"
+      ]
+    },
+    {
+      "mission": "8014eed6-d927-4f9b-ad4c-d44b279ce1c7",
+      "heure": "12:15",
+      "destination": "ZEUS",
+      "gares_restantes": [
+        "Joinville-le-Pont",
+        "Nogent-sur-Marne",
+        "Fontenay-sous-Bois",
+        "Vincennes",
+        "Nation",
+        "Gare de Lyon",
+        "Châtelet les Halles",
+        "Auber",
+        "Charles de Gaulle - Etoile",
+        "La Défense",
+        "Nanterre Préfecture",
+        "Nanterre Université",
+        "Nanterre Ville",
+        "Rueil-Malmaison",
+        "Chatou - Croissy",
+        "Le Vésinet - Centre",
+        "Le Vésinet - Le Pecq",
+        "Saint-Germain-en-Laye"
+      ]
+    }
+  ]
+}
