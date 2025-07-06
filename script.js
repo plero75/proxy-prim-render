@@ -1,93 +1,88 @@
-import { API_PROXY, STOPS, LINES, ICONS } from "./config.js";
+import zipfile
+import pandas as pd
+import requests
+from io import BytesIO
+from datetime import datetime, timedelta
 
-let stopsGtfs = {};
-fetch("./static/gtfs-stops.json")
-  .then(resp => resp.json())
-  .then(obj => { stopsGtfs = obj; });
+GTFS_URL = "https://eu.ftp.opendatasoft.com/stif/GTFS/IDFM-gtfs.zip"
+STOP_ID = "IDFM:87759009"  # Joinville-le-Pont RER
+ROUTE_ID = "IDFM:C01742"   # RER A
 
-const REFRESH_MS = 15000, maxBackoff = 120000;
-let currentInterval = REFRESH_MS;
+today = datetime.now()
+day_str = today.strftime("%Y%m%d")
+resp = requests.get(GTFS_URL)
+with zipfile.ZipFile(BytesIO(resp.content)) as z:
+    stops = pd.read_csv(z.open("stops.txt"))
+    stop_times = pd.read_csv(z.open("stop_times.txt"), low_memory=False)
+    trips = pd.read_csv(z.open("trips.txt"), low_memory=False)
+    routes = pd.read_csv(z.open("routes.txt"))
+    calendar = pd.read_csv(z.open("calendar.txt"))
+    if "calendar_dates.txt" in z.namelist():
+        calendar_dates = pd.read_csv(z.open("calendar_dates.txt"))
+    else:
+        calendar_dates = pd.DataFrame()
 
-const navitiaSA = sa => 
-  `https://prim.iledefrance-mobilites.fr/marketplace/navitia/v1/coverage/fr-idf/stop_areas/${sa}/departures?count=6&data_freshness=realtime`;
-const navitiaTraffic = id =>
-  `https://prim.iledefrance-mobilites.fr/marketplace/navitia/v1/coverage/fr-idf/lines/${id}/traffic`;
-const storeKey = sa => `cache_${sa}`;
+# Service ids actifs aujourd'hui pour RER A
+dow = today.weekday()
+active_service_ids = []
+for idx, row in calendar.iterrows():
+    start = datetime.strptime(str(row['start_date']), "%Y%m%d").date()
+    end = datetime.strptime(str(row['end_date']), "%Y%m%d").date()
+    if not (start <= today.date() <= end):
+        continue
+    if dow < 5 and row['monday']: active_service_ids.append(row['service_id'])
+    if dow == 5 and row['saturday']: active_service_ids.append(row['service_id'])
+    if dow == 6 and row['sunday']: active_service_ids.append(row['service_id'])
+if not calendar_dates.empty:
+    today_exceptions = calendar_dates[calendar_dates['date'] == int(day_str)]
+    for _, ex in today_exceptions.iterrows():
+        if ex['exception_type'] == 1 and ex['service_id'] not in active_service_ids:
+            active_service_ids.append(ex['service_id'])
+        if ex['exception_type'] == 2 and ex['service_id'] in active_service_ids:
+            active_service_ids.remove(ex['service_id'])
 
-async function fetchJSON(url) {
-  const r = await fetch(`${API_PROXY}?url=${encodeURIComponent(url)}`);
-  if (!r.ok) throw new Error(r.status);
-  return r.json();
-}
-async function fetchStop(sa) {
-  try {
-    const data = await fetchJSON(navitiaSA(sa));
-    localStorage.setItem(storeKey(sa), JSON.stringify(data));
-    return parseDep(data);
-  } catch (e) {
-    const cached = localStorage.getItem(storeKey(sa));
-    if (cached) return parseDep(JSON.parse(cached));
-    throw e;
-  }
-  function parseDep(d) {
-    return d.departures.map(dep => {
-      const ts = Date.parse(dep.stop_date_time.departure_date_time.substr(0, 15));
-      return {
-        waitSec: Math.max(0, Math.round((ts - Date.now()) / 1000)),
-        dest: stopsGtfs[dep.display_informations.direction] ?? dep.display_informations.direction,
-        line: dep.display_informations.label
-      }
-    })
-  }
-}
-async function fetchTraffic() {
-  const arr = await Promise.all(
-    [LINES.rerA, LINES.bus77, LINES.bus201].map(id =>
-      fetchJSON(navitiaTraffic(id)).catch(() => null)
-    )
-  );
-  return arr
-    .filter(Boolean)
-    .flatMap(o => o.pt_statuses || [])
-    .filter(m => m.severity?.effect !== "NO_EFFECT")
-    .map(m => m.message.text)
-}
-function render(stopId, list) {
-  const el = document.querySelector(`[data-stop='${stopId}'] .passages`);
-  el.innerHTML = list.map(p =>
-    `<div class=row><span class="dest"><span class=icon>${ICONS[p.line] || ""}</span>${p.dest}</span><span class=wait data-sec="${p.waitSec}">${formatMin(p.waitSec)}</span></div>`
-  ).join("");
-}
-function formatMin(s) {
-  return s < 60 ? `${Math.floor(s / 60)} min` : ">1 h"
-}
-function tickCountdown() {
-  document.querySelectorAll(".wait[data-sec]").forEach(span => {
-    let v = parseInt(span.dataset.sec) - 1;
-    span.dataset.sec = v;
-    span.textContent = v <= 0 ? "À quai" : formatMin(v)
-  })
-}
-function showAlerts(msgs) {
-  const box = document.getElementById("alerts");
-  if (msgs.length) {
-    box.innerHTML = msgs.map(t => `<p>${t}</p>`).join("");
-    box.classList.add("show")
-  } else box.classList.remove("show")
-}
-async function refresh() {
-  try {
-    for (const k in STOPS) {
-      render(k, await fetchStop(STOPS[k]))
-    }
-    showAlerts(await fetchTraffic());
-    currentInterval = REFRESH_MS
-  } catch (e) {
-    console.error(e);
-    currentInterval = Math.min(currentInterval * 2, maxBackoff)
-  } finally {
-    setTimeout(refresh, currentInterval)
-  }
-}
-setInterval(tickCountdown, 1000);
-refresh();
+# Trips RER A du jour
+trips_today = trips[(trips['route_id'] == ROUTE_ID) & (trips['service_id'].isin(active_service_ids))]
+trip_ids_today = trips_today['trip_id'].tolist()
+
+# Tous les passages à Joinville-le-Pont pour le jour
+passages = stop_times[(stop_times['stop_id'] == STOP_ID) & (stop_times['trip_id'].isin(trip_ids_today))]
+passages = passages.merge(trips_today[['trip_id', 'trip_headsign']], on='trip_id')
+
+# Calcul du temps d'attente
+def next_time_to_minutes(departure_str, ref_dt):
+    h, m, *_ = map(int, departure_str.split(":"))
+    target = ref_dt.replace(hour=h, minute=m, second=0, microsecond=0)
+    # Cas où on passe minuit (ex: 24:03 -> 00:03 + 1j)
+    if h >= 24:
+        target += timedelta(days=1)
+        target = target.replace(hour=h - 24)
+    delta = (target - ref_dt).total_seconds() // 60
+    return int(delta)
+
+# Grouper par direction
+results = {}
+for direction, group in passages.groupby('trip_headsign'):
+    trains = []
+    group = group.sort_values('departure_time')
+    for _, row in group.head(4).iterrows():
+        trip_id = row['trip_id']
+        heure = row['departure_time'][:5]
+        minutes = next_time_to_minutes(row['departure_time'], today)
+        # Liste gares restantes
+        stops_seq = stop_times[(stop_times['trip_id'] == trip_id) & (stop_times['stop_sequence'] >= row['stop_sequence'])].sort_values('stop_sequence')['stop_id'].tolist()
+        stop_names = stops.set_index('stop_id').loc[stops_seq]['stop_name'].tolist()
+        trains.append({
+            "mission": trip_id.split(":")[-1],
+            "heure": heure,
+            "minutes": minutes,
+            "gares": stop_names,
+            "quai": "",  # GTFS classique n'a pas de quai, à enrichir via SIRI/Navitia si dispo
+            "status": "on time"
+        })
+    results[direction] = trains
+
+import json
+with open("static/rer_a_prochains_trains_by_direction.json", "w", encoding="utf-8") as f:
+    json.dump(results, f, indent=2, ensure_ascii=False)
+print("✅ Exporté static/rer_a_prochains_trains_by_direction.json")
