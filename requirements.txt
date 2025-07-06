@@ -1,5 +1,0 @@
-duckdb>=0.10
-pandas
-requests
-tqdm
-python-dateutil
