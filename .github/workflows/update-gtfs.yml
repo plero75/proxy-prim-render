@@ -1,8 +1,8 @@
-name: Update GTFS stops
+name: Update GTFS horaires
 
 on:
   schedule:
-    - cron: '0 3 * * 1' # Chaque lundi à 3h
+    - cron: '0 3 * * 1' # Chaque lundi à 3h du matin
   workflow_dispatch:
 
 jobs:
@@ -10,20 +10,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
       - name: Install requirements
         run: pip install pandas requests
-      - name: Générer gtfs-stops-full.json
-        run: python3 ./scripts/gtfs_extract.py
-        env:
-          ODS_APIKEY: ${{ secrets.ODS_APIKEY }}
-      - name: Commit & push si changé
+
+      - name: Générer horaires_export.json
+        run: |
+          mkdir -p static
+          python3 ./scripts/gtfs_extract.py
+
+      - name: Commit & push if changed
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add static/gtfs-stops-full.json
-          git diff --cached --quiet || git commit -m "Màj GTFS stops full auto"
+          git add static/horaires_export.json
+          git diff --cached --quiet || git commit -m "Màj horaires GTFS auto"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
