@@ -5,9 +5,9 @@ import requests
 from io import BytesIO
 import json
 
-APIKEY = os.environ.get("IDFM_APIKEY")
-if not APIKEY:
-    raise RuntimeError("IDFM_APIKEY n'est pas défini dans les variables d'environnement.")
+ODS_APIKEY = os.environ.get("ODS_APIKEY")
+if not ODS_APIKEY:
+    raise RuntimeError("ODS_APIKEY n'est pas défini dans les variables d'environnement.")
 
 url = f"https://data.iledefrance-mobilites.fr/explore/dataset/gtfs-horaires/download/?format=zip&apikey={APIKEY}"
 
