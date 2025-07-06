@@ -19,7 +19,7 @@ jobs:
       - name: Générer gtfs-stops-full.json
         run: python3 ./scripts/gtfs_extract.py
         env:
-          IDFM_APIKEY: ${{ secrets.IDFM_APIKEY }}
+          ODS_APIKEY: ${{ secrets.ODS_APIKEY }}
       - name: Commit & push si changé
         run: |
           git config --global user.name "GitHub Actions"
