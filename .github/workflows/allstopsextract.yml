@@ -1,14 +1,13 @@
-name: Auto GTFS RER A Extract
+name: Extract RER A GTFS export
 
 on:
   schedule:
-    - cron: "0 2 * * *"    # chaque nuit à 2h (UTC)
-  workflow_dispatch:       # lancement manuel possible
+    - cron: "3 3 * * *" # chaque jour à 3h03 UTC
+  workflow_dispatch:
 
 jobs:
   extract:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -18,17 +17,18 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install requirements
-        run: |
-          pip install pandas requests
+      - name: Install dependencies
+        run: pip install pandas requests
 
-      - name: Run GTFS extraction script
+      - name: Run extraction script
         run: python3 ./scripts/extract_rer_a_gtfs.py
 
-      - name: Commit export if changed
+      - name: Commit & push export
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
-          git add static/rer_a_prochains_trains.json
-          git commit -m "Mise à jour auto horaires RER A GTFS" || echo "Pas de modif"
+          git add static/rer_a_prochains_trains_by_direction.json
+          git commit -m "Auto: maj horaires RER A" || echo "no change"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
