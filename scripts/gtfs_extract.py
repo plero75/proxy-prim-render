@@ -1,30 +1,14 @@
-import os
 import zipfile
 import pandas as pd
 import requests
 from io import BytesIO
 import json
+import os
 
-ODS_APIKEY = os.environ.get("ODS_APIKEY")
-if not ODS_APIKEY:
-    raise RuntimeError("ODS_APIKEY n'est pas défini dans les variables d'environnement.")
+GTFS_URL = "https://eu.ftp.opendatasoft.com/stif/GTFS/IDFM-gtfs.zip"
 
-url = f"https://data.iledefrance-mobilites.fr/explore/dataset/gtfs-horaires/download/?format=zip&apikey={ODS_APIKEY}"
-
-print("Téléchargement du GTFS sécurisé...")
-resp = requests.get(url) 
-resp.raise_for_status()
-
-# Sauvegarder temporairement le contenu téléchargé pour inspection
-with open("debug_downloaded_file.bin", "wb") as debug_file:
-    debug_file.write(resp.content)
-
-print("Content-Type:", resp.headers.get('Content-Type'))
-
-if resp.headers.get('Content-Type') != "application/zip":
-    print("Le serveur a retourné autre chose qu'un ZIP. Voici un extrait :")
-    print(resp.content[:500])
-    raise RuntimeError("Downloaded file is not a ZIP. Vérifiez l'API key ou l'URL.")
+print("Téléchargement du GTFS IDFM...")
+resp = requests.get(GTFS_URL)
 with zipfile.ZipFile(BytesIO(resp.content)) as z:
     stops = pd.read_csv(z.open("stops.txt"))
     stop_times = pd.read_csv(z.open("stop_times.txt"))
@@ -33,7 +17,7 @@ with zipfile.ZipFile(BytesIO(resp.content)) as z:
     routes = pd.read_csv(z.open("routes.txt"))
 
 output = {}
-target_route_short_name = "A"  # Exemple : RER A
+target_route_short_name = "A"  # Ex : RER A
 rera_route_ids = routes[routes['route_short_name'] == target_route_short_name]['route_id'].tolist()
 rera_trip_ids = trips[trips['route_id'].isin(rera_route_ids)]['trip_id'].tolist()
 
