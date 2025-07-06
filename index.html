@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Infos transports · Hippodrome de Vincennes</title>
+  <meta name="description" content="Horaires temps‑réel RER A et bus 77/201 pour l’hippodrome de Vincennes, avec alertes trafic.">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#111">
+  <link rel="manifest" href="manifest.json">
+  <link rel="preconnect" href="https://ratp-proxy.hippodrome-proxy42.workers.dev" crossorigin>
+  <link rel="stylesheet" href="style.css">
+  <script type="module" src="config.js" defer></script>
+  <script type="module" src="script.js" defer></script>
+  <script>
+    if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js");
+  </script>
+</head>
+<body>
+  <header>
+    <h1>Tableau d’information – Hippodrome de Vincennes</h1>
+    <div id="alerts" class="alerts" aria-live="polite" aria-atomic="true"></div>
+  </header>
+
+  <main>
+    <section data-stop="joinville" role="region" aria-label="Horaires RER A Joinville‑le‑Pont">
+      <h2>RER A · Joinville‑le‑Pont</h2>
+      <div class="passages" aria-live="polite"></div>
+    </section>
+
+    <section data-stop="hippodrome77" role="region" aria-label="Horaires bus 77 Hippodrome">
+      <h2>Bus 77 · Hippodrome</h2>
+      <div class="passages" aria-live="polite"></div>
+    </section>
+
+    <section data-stop="ecoleBreuil" role="region" aria-label="Horaires bus 77‑201 École du Breuil">
+      <h2>Bus 77/201 · École du Breuil</h2>
+      <div class="passages" aria-live="polite"></div>
+    </section>
+  </main>
+</body>
+</html>
