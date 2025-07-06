@@ -5,14 +5,16 @@
   <title>Infos transports · Hippodrome de Vincennes</title>
   <meta name="description" content="Horaires temps‑réel RER A et bus 77/201 pour l’hippodrome de Vincennes, avec alertes trafic.">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="theme-color" content="#111">
-  <link rel="manifest" href="manifest.json">
-  <link rel="preconnect" href="https://ratp-proxy.hippodrome-proxy42.workers.dev" crossorigin>
-  <link rel="stylesheet" href="style.css">
-  <script type="module" src="config.js" defer></script>
-  <script type="module" src="script.js" defer></script>
+  <meta name="theme-color" content="#111111">
+  <link rel="manifest" href="./manifest.json">
+  <link rel="icon" href="./favicon.ico">
+  <link rel="stylesheet" href="./style.css">
+  <script type="module" src="./config.js" defer></script>
+  <script type="module" src="./script.js" defer></script>
   <script>
-    if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js");
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("./sw.js");
+    }
   </script>
 </head>
 <body>
