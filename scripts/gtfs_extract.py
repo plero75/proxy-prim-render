@@ -12,8 +12,8 @@ if not ODS_APIKEY:
 url = f"https://data.iledefrance-mobilites.fr/explore/dataset/gtfs-horaires/download/?format=zip&apikey={ODS_APIKEY}"
 
 print("Téléchargement du GTFS sécurisé...")
-resp = requests.get(url)
- resp.raise_for_status()
+resp = requests.get(url) 
+resp.raise_for_status()
 
 # Sauvegarder temporairement le contenu téléchargé pour inspection
 with open("debug_downloaded_file.bin", "wb") as debug_file:
