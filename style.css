@@ -1,0 +1,12 @@
+@font-face{font-family:Inter;src:url("https://rsms.me/inter/font-files/Inter-roman.var.woff2") format("woff2-variations");font-weight:100 900;font-display:swap}
+:root{--bg:#111;--card:#1d1d1d;--text:#e0e0e0;--accent:#ffd366;--alert:#5c1b1b}
+body{font-family:Inter,system-ui,sans-serif;margin:0;padding:1rem;background:var(--bg);color:var(--text)}
+h1{margin:0 0 1rem;font-size:clamp(1.4rem,3vw,1.8rem);color:var(--accent)}
+section{margin:1rem 0;padding:1rem;background:var(--card);border-radius:.75rem}
+h2{margin-top:0;font-size:1.2rem;color:var(--accent)}
+.row{display:flex;align-items:center;justify-content:space-between;padding:.35rem 0;border-bottom:1px solid #333}
+.dest{flex:1;display:flex;align-items:center;gap:.5rem}
+.wait{font-variant:tabular-nums}
+.icon{width:1.1em;height:1.1em;display:inline-block;text-align:center}
+.alerts{display:none;margin-bottom:1rem;padding:.75rem;border-radius:.5rem;background:var(--alert);color:#fff}
+.alerts.show{display:block}
