@@ -13,6 +13,19 @@ url = f"https://data.iledefrance-mobilites.fr/explore/dataset/gtfs-horaires/down
 
 print("Téléchargement du GTFS sécurisé...")
 resp = requests.get(url)
+resp = requests.get(url)
+resp.raise_for_status()
+
+# Sauvegarder temporairement le contenu téléchargé pour inspection
+with open("debug_downloaded_file.bin", "wb") as debug_file:
+    debug_file.write(resp.content)
+
+print("Content-Type:", resp.headers.get('Content-Type'))
+
+if resp.headers.get('Content-Type') != "application/zip":
+    print("Le serveur a retourné autre chose qu'un ZIP. Voici un extrait :")
+    print(resp.content[:500])
+    raise RuntimeError("Downloaded file is not a ZIP. Vérifiez l'API key ou l'URL.")
 with zipfile.ZipFile(BytesIO(resp.content)) as z:
     stops = pd.read_csv(z.open("stops.txt"))
     stop_times = pd.read_csv(z.open("stop_times.txt"))
