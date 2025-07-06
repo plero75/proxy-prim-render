@@ -16,13 +16,20 @@ with zipfile.ZipFile(BytesIO(resp.content)) as z:
     calendar = pd.read_csv(z.open("calendar.txt"))
     routes = pd.read_csv(z.open("routes.txt"))
 
-output = {}
-target_route_short_name = "A"  # Ex : RER A
-rera_route_ids = routes[routes['route_short_name'] == target_route_short_name]['route_id'].tolist()
-rera_trip_ids = trips[trips['route_id'].isin(rera_route_ids)]['trip_id'].tolist()
+target_route_short_name = "A"  # RER A
+route_ids = routes[routes['route_short_name'] == target_route_short_name]['route_id'].tolist()
+trips_rera = trips[trips['route_id'].isin(route_ids)]
+trip_ids = trips_rera['trip_id'].tolist()
 
-for stop_id in stops['stop_id']:
-    nom = stops[stops['stop_id'] == stop_id]['stop_name'].values[0]
+# Récupère tous les arrêts sur la ligne
+stoptimes_rera = stop_times[stop_times['trip_id'].isin(trip_ids)]
+stop_ids = stoptimes_rera['stop_id'].unique()
+stops_rera = stops[stops['stop_id'].isin(stop_ids)]
+
+output = {}
+
+for stop_id in stop_ids:
+    nom = stops_rera[stops_rera['stop_id'] == stop_id]['stop_name'].values[0]
     horaires = {"Lun-Ven": [], "Sam": [], "Dim": []}
     for idx, row in calendar.iterrows():
         sid = row['service_id']
@@ -34,22 +41,18 @@ for stop_id in stops['stop_id']:
             key = "Dim"
         else:
             continue
-        trip_ids = set(trips[trips['service_id'] == sid]['trip_id'])
-        times = stop_times[(stop_times['stop_id'] == stop_id) & (stop_times['trip_id'].isin(trip_ids))]['departure_time']
+        trips_for_service = trips_rera[trips_rera['service_id'] == sid]['trip_id']
+        times = stoptimes_rera[(stoptimes_rera['stop_id'] == stop_id) & (stoptimes_rera['trip_id'].isin(trips_for_service))]['departure_time']
         horaires[key] += list(times)
     premiers = {k: min(v) if v else None for k, v in horaires.items()}
     derniers = {k: max(v) if v else None for k, v in horaires.items()}
-    # Gares desservies par RER A (pour ce stop_id)
-    trips_with_stop = stop_times[(stop_times['stop_id'] == stop_id) & (stop_times['trip_id'].isin(rera_trip_ids))]['trip_id']
-    desserte_stops = stop_times[stop_times['trip_id'].isin(trips_with_stop)]['stop_id'].unique().tolist()
     output[stop_id] = {
         "nom": nom,
         "premier": premiers,
-        "dernier": derniers,
-        "dessertes_RERA": desserte_stops
+        "dernier": derniers
     }
 
 os.makedirs("static", exist_ok=True)
 with open("static/gtfs-stops-full.json", "w", encoding="utf-8") as f:
     json.dump(output, f, indent=2, ensure_ascii=False)
-print("✅ Données GTFS exportées dans static/gtfs-stops-full.json")
+print("✅ Données GTFS RER A exportées dans static/gtfs-stops-full.json")
