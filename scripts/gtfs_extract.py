@@ -65,3 +65,9 @@ for day in days:
 for d, horaires in results.items():
     print(f"{d}:")
     print(", ".join(horaires[:5]), "...", ", ".join(horaires[-5:]) if horaires else "Aucun passage ce jour")
+import json
+import os
+
+os.makedirs("static", exist_ok=True)
+with open("static/gtfs-stops-full.json", "w") as f:
+    json.dump(results, f, ensure_ascii=False, indent=2)
