@@ -1,68 +1,90 @@
-<!DOCTYPE html>
-<html lang="fr" class="bg-gradient-to-br from-indigo-50 to-white dark:from-gray-900 dark:to-gray-800">
-<head>
-  <meta charset="UTF-8">
-  <title>Prochains RER A à Joinville</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <script src="https://cdn.tailwindcss.com"></script> 
-  <!-- Optionnel : Police Inter pour un look moderne -->
-  <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
-</head>
-<body class="font-sans text-gray-800 dark:text-gray-100 min-h-screen flex flex-col">
-  <header class="py-5 bg-white/80 dark:bg-gray-900/80 shadow-lg sticky top-0 z-10 backdrop-blur">
-    <h1 class="text-3xl font-extrabold text-center text-indigo-700 dark:text-indigo-300 tracking-tight">Prochains RER A à Joinville-le-Pont</h1>
-    <p class="text-center text-gray-500 dark:text-gray-400 text-base mt-2">Données temps réel (GTFS export auto)</p>
-  </header>
-  <main class="flex-1 flex flex-col items-center justify-center p-4">
-    <div id="rer-directions" class="flex flex-col md:flex-row gap-8 w-full max-w-4xl mt-8"></div>
-  </main>
-  <footer class="text-xs text-center text-gray-400 py-4 mt-8">
-    &copy; 2025 — Données SNCF, projet libre.
-  </footer>
-  <script>
-    async function main() {
-      const resp = await fetch('static/rer_a_prochains_trains_by_direction.json');
-      const data = await resp.json();
+const CORS_PROXY = "https://ratp-proxy.hippodrome-proxy42.workers.dev/?url=";
 
-      const root = document.getElementById('rer-directions');
-      root.innerHTML = "";
+const STOP_IDS = {
+  rer_joinville: "STIF:StopPoint:Q:39406:",
+  bus77_hippo: "STIF:StopPoint:Q:463640:",
+  bus201_breuil: "STIF:StopPoint:Q:463646:"
+};
 
-      for (const [direction, trains] of Object.entries(data)) {
-        const col = document.createElement('div');
-        col.className = "flex-1 bg-white/80 dark:bg-gray-900/80 rounded-2xl shadow-xl p-6 min-w-[260px] border border-indigo-50 dark:border-gray-800";
+const LINE_REFS = {
+  rer_a: "STIF:Line::C01742:",
+  bus77: "STIF:Line::C01789:",
+  bus201: "STIF:Line::C01805:"
+};
 
-        // Titre direction
-        const title = document.createElement('div');
-        title.className = "font-bold text-xl mb-4 text-indigo-800 dark:text-indigo-300 flex items-center gap-2";
-        title.innerHTML = `<span class="inline-block w-3 h-3 bg-indigo-400 rounded-full"></span> ${direction}`;
-        col.appendChild(title);
+async function loadHorairesData() {
+  try {
+    const res = await fetch("static/horaires_export.json");
+    if (!res.ok) throw new Error(`Erreur HTTP ${res.status} lors du chargement des horaires.`);
+    const data = await res.json();
+    return data;
+  } catch (e) {
+    console.error("Erreur chargement horaires_export.json:", e);
+    return null;
+  }
+}
 
-        // Trains
-        for (const train of trains) {
-          const trainDiv = document.createElement('div');
-          trainDiv.className = "mb-5 p-4 border border-indigo-100 dark:border-gray-700 rounded-xl hover:shadow-lg transition bg-white/60 dark:bg-gray-800/60";
+function displayHorairesFooter(data, lineId, elementId) {
+  const line = data.lines.find(l => l.line_id === lineId);
+  if (line) {
+    document.querySelector(elementId).innerHTML = `⏱️ Premier : ${line.first_time} | Dernier : ${line.last_time}`;
+  } else {
+    document.querySelector(elementId).innerHTML = "⏱️ Horaires indisponibles.";
+  }
+}
 
-          trainDiv.innerHTML = `
-            <div class="flex items-baseline justify-between">
-              <span class="font-semibold text-lg text-indigo-700 dark:text-indigo-300">${train.heure}</span>
-              <span class="text-xs bg-indigo-100 dark:bg-indigo-900 text-indigo-700 dark:text-indigo-200 px-2 py-0.5 rounded">${train.mission}</span>
-            </div>
-            <div class="text-sm text-gray-600 dark:text-gray-300">${train.destination}</div>
-            <details class="mt-2 text-xs group">
-              <summary class="cursor-pointer text-indigo-600 dark:text-indigo-400 hover:underline mb-1">Gares restantes&nbsp;<span class="text-gray-400">(voir)</span></summary>
-              <ul class="ml-4 list-disc marker:text-indigo-400 marker:font-bold">
-                ${train.gares_restantes.map(stop => `<li>${stop}</li>`).join("")}
-              </ul>
-            </details>
-          `;
-          col.appendChild(trainDiv);
-        }
+async function fetchPrimStop(monitoringRef, lineRef, elementId) {
+  const url = `${CORS_PROXY}https://prim.iledefrance-mobilites.fr/marketplace/stop-monitoring?MonitoringRef=${monitoringRef}&LineRef=${lineRef}`;
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 10000);
+  try {
+    const res = await fetch(url, { signal: controller.signal });
+    if (!res.ok) throw new Error(`Erreur HTTP ${res.status} lors de la requête PRIM.`);
+    const data = await res.json();
+    const visits = data?.Siri?.ServiceDelivery?.StopMonitoringDelivery?.[0]?.MonitoredStopVisit || [];
+    const trips = visits.filter(v => v.MonitoredVehicleJourney?.LineRef?.value === lineRef)
+      .slice(0, 4)
+      .map(v => ({
+        aimed: v.MonitoredVehicleJourney.MonitoredCall.AimedDepartureTime,
+        expected: v.MonitoredVehicleJourney.MonitoredCall.ExpectedDepartureTime,
+        direction: v.MonitoredVehicleJourney.DirectionName?.[0]?.value || "Direction inconnue"
+      }));
+    document.querySelector(elementId).innerHTML = trips.length ? trips.map(formatTrip).join("<br>") : "Aucun passage disponible.";
+  } catch (e) {
+    document.querySelector(elementId).innerHTML = `Erreur : ${e.message}`;
+  } finally {
+    clearTimeout(timeout);
+  }
+}
 
-        root.appendChild(col);
-      }
+function formatTrip(trip) {
+  const aimed = aimedTime(trip.aimed), expected = aimedTime(trip.expected), now = new Date();
+  const timeLeft = Math.round((expected - now) / 60000), delay = aimed && expected ? Math.round((expected - aimed) / 60000) : 0;
+  const aimedStr = aimed ? aimed.toLocaleTimeString([], {hour:'2-digit',minute:'2-digit'}) : "—", expectedStr = expected.toLocaleTimeString([], {hour:'2-digit',minute:'2-digit'});
+  const delayStr = delay > 1 ? ` (retard +${delay} min)` : "", imminent = timeLeft <= 1.5 ? "🟢 imminent" : `⏳ dans ${timeLeft} min`;
+  return `🕐 ${aimedStr} → ${expectedStr} ${imminent}${delayStr} | ${trip.direction}`;
+}
+
+const aimedTime = iso => iso ? new Date(iso) : null;
+
+async function main() {
+  try {
+    const horairesData = await loadHorairesData();
+    if (horairesData) {
+      displayHorairesFooter(horairesData, LINE_REFS.rer_a, "#rer-a-horaires");
+      displayHorairesFooter(horairesData, LINE_REFS.bus77, "#bus-77-horaires");
+      displayHorairesFooter(horairesData, LINE_REFS.bus201, "#bus-201-horaires");
     }
 
-    main();
-  </script>
-</body>
-</html>
+    await Promise.allSettled([
+      fetchPrimStop(STOP_IDS.rer_joinville, LINE_REFS.rer_a, "#rer-a"),
+      fetchPrimStop(STOP_IDS.bus77_hippo, LINE_REFS.bus77, "#bus-77"),
+      fetchPrimStop(STOP_IDS.bus201_breuil, LINE_REFS.bus201, "#bus-201")
+    ]);
+
+  } catch (e) {
+    console.error("🚨 Erreur inattendue :", e);
+  }
+}
+
+main();
