@@ -23,4 +23,4 @@ python first_last_rera_joinville.py --save-json sortie.json
 
 ## Licence
 
-MIT
+Ce projet est sous licence [MIT](LICENSE).
