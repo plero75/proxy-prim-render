@@ -22,7 +22,7 @@ with zipfile.ZipFile(BytesIO(resp.content)) as z:
     else:
         calendar_dates = pd.DataFrame()
 
-# Service ids actifs aujourd'hui pour RER A
+# Détermination des services actifs aujourd'hui pour le RER A
 dow = today.weekday()
 active_service_ids = []
 for idx, row in calendar.iterrows():
@@ -41,11 +41,11 @@ if not calendar_dates.empty:
         if ex['exception_type'] == 2 and ex['service_id'] in active_service_ids:
             active_service_ids.remove(ex['service_id'])
 
-# Trips RER A du jour
+# Filtrer les trips du jour sur la ligne RER A
 trips_today = trips[(trips['route_id'] == ROUTE_ID) & (trips['service_id'].isin(active_service_ids))]
 trip_ids_today = trips_today['trip_id'].tolist()
 
-# Tous les passages à Joinville-le-Pont pour le jour
+# Tous les passages à Joinville-le-Pont pour ces trips
 passages = stop_times[(stop_times['stop_id'] == STOP_ID) & (stop_times['trip_id'].isin(trip_ids_today))]
 passages = passages.merge(trips_today[['trip_id', 'trip_headsign']], on='trip_id')
 
@@ -53,7 +53,6 @@ passages = passages.merge(trips_today[['trip_id', 'trip_headsign']], on='trip_id
 def next_time_to_minutes(departure_str, ref_dt):
     h, m, *_ = map(int, departure_str.split(":"))
     target = ref_dt.replace(hour=h, minute=m, second=0, microsecond=0)
-    # Cas où on passe minuit (ex: 24:03 -> 00:03 + 1j)
     if h >= 24:
         target += timedelta(days=1)
         target = target.replace(hour=h - 24)
@@ -69,7 +68,6 @@ for direction, group in passages.groupby('trip_headsign'):
         trip_id = row['trip_id']
         heure = row['departure_time'][:5]
         minutes = next_time_to_minutes(row['departure_time'], today)
-        # Liste gares restantes
         stops_seq = stop_times[(stop_times['trip_id'] == trip_id) & (stop_times['stop_sequence'] >= row['stop_sequence'])].sort_values('stop_sequence')['stop_id'].tolist()
         stop_names = stops.set_index('stop_id').loc[stops_seq]['stop_name'].tolist()
         trains.append({
@@ -77,12 +75,27 @@ for direction, group in passages.groupby('trip_headsign'):
             "heure": heure,
             "minutes": minutes,
             "gares": stop_names,
-            "quai": "",  # GTFS classique n'a pas de quai, à enrichir via SIRI/Navitia si dispo
             "status": "on time"
         })
     results[direction] = trains
 
+# Export des prochains trains par direction
 import json
 with open("static/rer_a_prochains_trains_by_direction.json", "w", encoding="utf-8") as f:
     json.dump(results, f, indent=2, ensure_ascii=False)
 print("✅ Exporté static/rer_a_prochains_trains_by_direction.json")
+
+# Calcul des horaires premier et dernier passage théorique
+firsts = passages.groupby('trip_headsign')['departure_time'].min()
+lasts = passages.groupby('trip_headsign')['departure_time'].max()
+
+horaires_export = {
+    "rer_a": {
+        "premier": firsts.min()[:5] if not firsts.empty else "N/A",
+        "dernier": lasts.max()[:5] if not lasts.empty else "N/A"
+    }
+}
+
+with open("static/horaires_export.json", "w", encoding="utf-8") as f:
+    json.dump(horaires_export, f, indent=2, ensure_ascii=False)
+print("✅ Exporté static/horaires_export.json")
