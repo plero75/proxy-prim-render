@@ -1,36 +1,46 @@
-/* Charger Inter depuis Google Fonts (ajoute aussi le <link> dans ton index.html) */
+/* Import Google Fonts Inter */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+:root {
+  --bg: #111;
+  --card: #1d1d1d;
+  --text: #e0e0e0;
+  --accent: #ffd366;
+  --alert: #5c1b1b;
+}
+
 body {
   font-family: "Inter", system-ui, sans-serif;
   margin: 0;
   padding: 1rem;
-  background: #111;
-  color: #e0e0e0;
+  background: var(--bg);
+  color: var(--text);
 }
 
 h1 {
   margin: 0 0 1rem;
   font-size: clamp(1.4rem, 3vw, 1.8rem);
-  color: #ffd366;
+  color: var(--accent);
 }
 
 section {
   margin: 1rem 0;
   padding: 1rem;
-  background: #1d1d1d;
-  border-radius: 0.75rem;
+  background: var(--card);
+  border-radius: .75rem;
 }
 
 h2 {
   margin-top: 0;
   font-size: 1.2rem;
-  color: #ffd366;
+  color: var(--accent);
 }
 
 .row {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0.35rem 0;
+  padding: .35rem 0;
   border-bottom: 1px solid #333;
 }
 
@@ -38,7 +48,7 @@ h2 {
   flex: 1;
   display: flex;
   align-items: center;
-  gap: 0.5rem;
+  gap: .5rem;
 }
 
 .wait {
@@ -55,9 +65,9 @@ h2 {
 .alerts {
   display: none;
   margin-bottom: 1rem;
-  padding: 0.75rem;
-  border-radius: 0.5rem;
-  background: #5c1b1b;
+  padding: .75rem;
+  border-radius: .5rem;
+  background: var(--alert);
   color: #fff;
 }
 
