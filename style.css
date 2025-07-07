@@ -10,8 +10,3 @@ h2{margin-top:0;font-size:1.2rem;color:var(--accent)}
 .icon{width:1.1em;height:1.1em;display:inline-block;text-align:center}
 .alerts{display:none;margin-bottom:1rem;padding:.75rem;border-radius:.5rem;background:var(--alert);color:#fff}
 .alerts.show{display:block}
-.footer-info {
-  font-size: 0.8em;
-  color: #ccc;
-  margin-top: 0.5em;
-}
