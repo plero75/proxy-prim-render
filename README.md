@@ -4,6 +4,7 @@
 Ce dépôt contient un script Python qui télécharge le GTFS Île‑de‑France Mobilités
 (via un *worker‑proxy* facultatif) et calcule les premiers et derniers passages
 du RER A à Joinville‑le‑Pont, dans les deux sens, pour la date de votre choix.
+Les dépendances nécessaires (**pandas**, **requests**) sont répertoriées dans `requirements.txt`.
 
 ```bash
 pip install -r requirements.txt
