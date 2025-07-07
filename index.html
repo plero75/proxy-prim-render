@@ -1,56 +1,40 @@
-<!DOCTYPE html>
 <html lang="fr">
 <head>
-  <meta charset="UTF-8">
-  <title>Dashboard Transports – Hippodrome de Vincennes</title>
-  <style>
-    body {
-      font-family: sans-serif;
-      background: #202b38;
-      color: #fff;
-      margin: 0;
-      padding: 1rem;
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-      gap: 1rem;
-    }
-    .card {
-      background: #2d3b4d;
-      border-radius: 8px;
-      padding: 1rem;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.4);
-    }
-    .rer { background: #d32f2f; }
-    .bus-201 { background: #388e3c; }
-    .bus-77 { background: #1976d2; }
-    .velib, .meteo, .trafic { background: #455a64; }
-    h2 { margin-top: 0; font-size: 1.2em; }
-    .footer-info {
-      font-size: 0.8em;
-      color: #ccc;
-      margin-top: 0.5em;
-    }
-  </style>
+  <meta charset="utf-8">
+  <title>Infos transports · Hippodrome de Vincennes</title>
+  <meta name="description" content="Horaires temps‑réel RER A et bus 77/201 pour l’hippodrome de Vincennes, avec alertes trafic.">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#111">
+  <link rel="manifest" href="manifest.json">
+  <link rel="preconnect" href="https://ratp-proxy.hippodrome-proxy42.workers.dev" crossorigin>
+  <link rel="stylesheet" href="style.css">
+  <script type="module" src="config.js" defer></script>
+  <script type="module" src="script.js" defer></script>
+  <script>
+    if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js");
+  </script>
 </head>
 <body>
-  <div class="card rer">
-    <h2>🚆 RER A Joinville-le-Pont</h2>
-    <div id="rer-a">Chargement...</div>
-    <div class="footer-info" id="rer-a-horaires"></div>
-  </div>
+  <header>
+    <h1>Tableau d’information – Hippodrome de Vincennes</h1>
+    <div id="alerts" class="alerts" aria-live="polite" aria-atomic="true"></div>
+  </header>
 
-  <div class="card bus-77">
-    <h2>🚌 Bus 77 Hippodrome</h2>
-    <div id="bus-77">Chargement...</div>
-    <div class="footer-info" id="bus-77-horaires"></div>
-  </div>
+  <main>
+    <section data-stop="joinville" role="region" aria-label="Horaires RER A Joinville‑le‑Pont">
+      <h2>RER A · Joinville‑le‑Pont</h2>
+      <div class="passages" aria-live="polite"></div>
+    </section>
 
-  <div class="card bus-201">
-    <h2>🚌 Bus 201 École du Breuil</h2>
-    <div id="bus-201">Chargement...</div>
-    <div class="footer-info" id="bus-201-horaires"></div>
-  </div>
+    <section data-stop="hippodrome77" role="region" aria-label="Horaires bus 77 Hippodrome">
+      <h2>Bus 77 · Hippodrome</h2>
+      <div class="passages" aria-live="polite"></div>
+    </section>
 
-  <script src="script.js"></script>
+    <section data-stop="ecoleBreuil" role="region" aria-label="Horaires bus 77‑201 École du Breuil">
+      <h2>Bus 77/201 · École du Breuil</h2>
+      <div class="passages" aria-live="polite"></div>
+    </section>
+  </main>
 </body>
 </html>
