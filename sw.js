@@ -1,8 +1,10 @@
 const CACHE = "ratp-vincennes-v1";
 self.addEventListener("install", e => {
-  const scope = self.registration.scope;
-  const files = ["", "index.html", "style.css", "config.js", "script.js", "manifest.json"].map(p => new URL(p, scope).href);
-  e.waitUntil(caches.open(CACHE).then(c => c.addAll(files)));
+  e.waitUntil(
+    caches.open(CACHE).then(c =>
+      c.addAll(["/", "index.html", "style.css", "config.js", "script.js", "manifest.json"])
+    )
+  );
 });
 self.addEventListener("fetch", e => {
   if (e.request.method !== "GET") return;
