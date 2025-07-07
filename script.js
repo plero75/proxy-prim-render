@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", async () => {
   try {
-    const rerResp = await fetch("proxy-prim-render/blob/main/static/rer_a_prochains_trains_by_direction.json");
+    const rerResp = await fetch("/static/rer_a_prochains_trains_by_direction.json");
     const rerData = await rerResp.json();
 
     const horairesResp = await fetch("proxy-prim-render/blob/main/static/horaires_export.json");
