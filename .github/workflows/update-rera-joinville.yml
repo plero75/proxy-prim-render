@@ -28,7 +28,7 @@ jobs:
       - name: Generate JSON
         run: |
           mkdir -p data
-          python first_last_rera_joinville.py --save-json data/today.json
+          python script.py
 
       - name: Commit & push if changed
         run: |
