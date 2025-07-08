@@ -67,7 +67,7 @@ with zipfile.ZipFile(zip_path) as z:
 # ─────────── DuckDB views ───────────
 con=duckdb.connect()
 con.execute("INSTALL httpfs; LOAD httpfs")
-csv = lambda p: f"zip://{zip_path}?{p}"
+csv = lambda p: f"zip:///{zip_path.resolve()}?{p}"
 for t in ("stops","stop_times","trips","calendar","cal_dates"):
     con.execute(f"CREATE VIEW {t} AS SELECT * FROM read_csv_auto('{csv(t+'.txt')}');")
 
