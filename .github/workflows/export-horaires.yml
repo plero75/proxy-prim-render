@@ -1,32 +1,41 @@
-name: test Export GTFS horaires complets
+name: okMise à jour horaires GTFS (Joinville)
 
 on:
   schedule:
-    - cron: '0 4 * * *'  # 6h Paris = 4h UTC
+    # Tous les jours à 06 h (Paris) = 04 h UTC
+    - cron: '0 4 * * *'
   workflow_dispatch:
 
 jobs:
-  export-horaires:
+  build:
     runs-on: ubuntu-latest
+    env:
+      # Facultatif : garde vide si tu n’utilises pas le proxy Cloudflare
+      PROXY_WORKER: ${{ secrets.PROXY_WORKER }}
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      # 1) Récupération du dépôt
+      - uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      # 2) Installation de Python 3.12 + cache pip
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
           cache: 'pip'
 
-      - name: Install dependencies
+      # 3) Dépendances
+      - name: Install deps
         run: |
           python -m pip install --upgrade pip
-          pip install pandas requests
+          pip install -r requirements.txt
 
-      - name: Run export script
+      # 4) Exécution du script
+      - name: Generate JSON
         run: |
           mkdir -p static
-          python scripts/gtfs_extract.      - name: Commit & push if changed
+          python scripts/gtfs_extract.py --output static/horaires_export.json
+
+      # 5) Commit & push si le fichier a changé
+      - name: Commit & push if changed
         run: |
           git config --global user.name  "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
@@ -37,5 +46,4 @@ jobs:
             git push
           else
             echo "Pas de changement"
-          fi            # ← le fi qui manquait
-
+          fi
