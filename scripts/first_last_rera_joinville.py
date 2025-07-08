@@ -47,7 +47,7 @@ LOCAL_ZIP = CACHE_DIR / "IDFM-gtfs.zip"
 
 def download_gtfs()->Path:
     if LOCAL_ZIP.exists(): return LOCAL_ZIP
-    url = proxify(GTFS_URL)
+    url = GTFS_URL  # pas de proxy pour l'URL FTP
     print("🚦 Téléchargement :", url)
     with requests.get(url, stream=True, timeout=300) as r:
         r.raise_for_status()
