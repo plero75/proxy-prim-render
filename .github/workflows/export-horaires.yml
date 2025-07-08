@@ -1,0 +1,40 @@
+name: test Export GTFS horaires complets
+
+on:
+  schedule:
+    - cron: '0 4 * * *'  # 6h Paris = 4h UTC
+  workflow_dispatch:
+
+jobs:
+  export-horaires:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas requests
+
+      - name: Run export script
+        run: |
+          mkdir -p static
+          python scripts/gtfs_extract.py
+
+      - name: Commit & push if updated
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git status --porcelain | grep -q "static/horaires_export.json"; then
+            git add static/horaires_export.json
+            git commit -m "🤖 Mise à jour automatique des horaires GTFS"
+            git push
+          else
+            echo "Pas de changement"
