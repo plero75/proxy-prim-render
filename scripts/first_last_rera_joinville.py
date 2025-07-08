@@ -58,6 +58,11 @@ def download_gtfs()->Path:
     return LOCAL_ZIP
 
 zip_path = download_gtfs()
+import zipfile
+with zipfile.ZipFile(zip_path) as z:
+    print("📦 Contenu du ZIP :")
+    for f in z.namelist():
+        print("-", f)
 
 # ─────────── DuckDB views ───────────
 con=duckdb.connect()
