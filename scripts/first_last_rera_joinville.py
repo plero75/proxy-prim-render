@@ -42,7 +42,7 @@ def proxify(url: str) -> str:
 
 # ─────────── GTFS direct (FTP) ───────────
 GTFS_URL  = "https://eu.ftp.opendatasoft.com/stif/GTFS/IDFM-gtfs.zip"
-CACHE_DIR = Path(__file__).with_suffix(".d"); CACHE_DIR.mkdir(exist_ok=True)
+CACHE_DIR = Path(__file__).resolve().parent / "first_last_rera_joinville.d"
 LOCAL_ZIP = CACHE_DIR / "IDFM-gtfs.zip"
 
 def download_gtfs() -> Path:
