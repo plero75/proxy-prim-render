@@ -7,6 +7,15 @@ Ce dépôt contient un script Python (`script.py`) qui télécharge le GTFS Île
 pip install -r requirements.txt
 python script.py
 ```
+ 
+# JavaScript
+
+Le fichier `script.js` est minifié pour la production. Pour le modifier, éditez `script.src.js` puis générez la version compacte :
+
+```bash
+npx terser script.src.js -o script.js -c -m
+```
+
 
 ## Licence
 
