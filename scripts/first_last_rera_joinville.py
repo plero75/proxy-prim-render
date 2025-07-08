@@ -62,7 +62,7 @@ zip_path = download_gtfs()
 # ─────────── DuckDB views ───────────
 con=duckdb.connect()
 con.execute("INSTALL httpfs; LOAD httpfs")
-csv=lambda p: f"zip://{p}?{zip_path}"
+csv = lambda p: f"zip://{zip_path}?{p}"
 for t in ("stops","stop_times","trips","calendar","cal_dates"):
     con.execute(f"CREATE VIEW {t} AS SELECT * FROM read_csv_auto('{csv(t+'.txt')}');")
 
