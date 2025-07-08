@@ -8,9 +8,9 @@ const REFRESH_MS = 15e3,
   maxBackoff = 120e3;
 let currentInterval = REFRESH_MS;
 const navitiaSA = (sa) =>
-  `https://prim.iledefrance-mobilites.fr/marketplace/navitia/v1/coverage/fr-idf/stop_areas/${sa}/departures?count=6&data_freshness=realtime`;
+  `https://prim.iledefrance-mobilites.fr/marketplace/v2/navitia/coverage/fr-idf/stop_areas/${sa}/departures?count=6&data_freshness=realtime`;
 const navitiaTraffic = (id) =>
-  `https://prim.iledefrance-mobilites.fr/marketplace/navitia/v1/coverage/fr-idf/lines/${id}/traffic`;
+  `https://prim.iledefrance-mobilites.fr/marketplace/v2/navitia/coverage/fr-idf/lines/${id}/traffic`;
 const storeKey = (sa) => `cache_${sa}`;
 async function fetchJSON(url) {
   const r = await fetch(`${API_PROXY}?url=${encodeURIComponent(url)}`);
