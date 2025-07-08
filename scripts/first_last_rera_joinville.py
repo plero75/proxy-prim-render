@@ -94,4 +94,42 @@ passages = con.execute(f"""
   JOIN trips t ON t.trip_id = st.trip_id
   WHERE st.stop_id IN {STOP_IDS}
     AND t.route_id = '{ROUTE_ID}'
-   
+    AND t.service_id IN {SERVICE_IDS}
+  ORDER BY st.departure_time
+""").fetch_df()
+
+def to_iso(t: str) -> str:
+    h, m, s = map(int, t.split(":"))
+    base = dt.datetime.combine(DAY, dt.time(0, 0, tzinfo=tz.gettz("Europe/Paris")))
+    if h >= 24:
+        h -= 24
+        base += dt.timedelta(days=1)
+    return (base + dt.timedelta(hours=h, minutes=m, seconds=s)).isoformat()
+
+def remaining(trip_id: str, join_id: str) -> list[str]:
+    df = con.execute(f"""
+        SELECT stop_id, stop_sequence FROM stop_times
+        WHERE trip_id='{trip_id}' ORDER BY stop_sequence
+    """).fetch_df()
+    seq = df.loc[df.stop_id == join_id, "stop_sequence"].iloc[0]
+    after = df[df.stop_sequence > seq].stop_id.tolist()
+    if not after: return []
+    names = con.execute(f"SELECT stop_id, stop_name FROM stops WHERE stop_id IN {tuple(after)}")\
+        .fetch_df().set_index("stop_id").stop_name.to_dict()
+    return [names[s] for s in after]
+
+labels = {0: "→ Paris / St-Germain", 1: "→ Boissy / MLV"}
+records = []
+for _, row in passages.iterrows():
+    records.append({
+        "time": to_iso(row.departure_time),
+        "direction": labels.get(row.direction_id, row.direction_id),
+        "destination": row.destination,
+        "remaining_stops": remaining(row.trip_id, row.stop_id)
+    })
+
+# export JSON
+out_path = Path(args.save_json)
+out_path.parent.mkdir(parents=True, exist_ok=True)
+out_path.write_text(json.dumps(records, indent=2, ensure_ascii=False))
+print(f"💾 {len(records)} passages écrits dans {out_path}")
