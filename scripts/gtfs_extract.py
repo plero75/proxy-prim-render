@@ -12,22 +12,21 @@ TARGETS = [
     {"nom": "Hippodrome de Vincennes", "parent_station": "IDFM:463642", "route_id": "IDFM:C02251", "ligne": "77"},
     {"nom": "École du Breuil", "parent_station": "IDFM:463645", "route_id": "IDFM:C01219", "ligne": "201"},
     {"nom": "École du Breuil", "parent_station": "IDFM:463645", "route_id": "IDFM:C02251", "ligne": "77"},
+    {"nom": "Joinville-le-Pont", "parent_station": "IDFM:70640", "route_id": "STIF:Line::C01742:", "ligne": "RER A"},
 ]
 
 today = datetime.now().date()
-days = [today + timedelta(days=i) for i in range(5)]
+days = [today + timedelta(days=i) for i in range(1)]
 
 resp = requests.get(GTFS_URL)
-with zipfile.ZipFile(BytesIO(resp.content)) as z:
-    stops = pd.read_csv(z.open("stops.txt"))
-    stop_times = pd.read_csv(z.open("stop_times.txt"), low_memory=False)
-    trips = pd.read_csv(z.open("trips.txt"), low_memory=False)
-    calendar = pd.read_csv(z.open("calendar.txt"))
-    if "calendar_dates.txt" in z.namelist():
-        calendar_dates = pd.read_csv(z.open("calendar_dates.txt"))
-    else:
-        calendar_dates = pd.DataFrame()
-    routes = pd.read_csv(z.open("routes.txt"))
+z = zipfile.ZipFile(BytesIO(resp.content))
+
+stops = pd.read_csv(z.open("stops.txt"))
+stop_times = pd.read_csv(z.open("stop_times.txt"), low_memory=False)
+trips = pd.read_csv(z.open("trips.txt"), low_memory=False)
+calendar = pd.read_csv(z.open("calendar.txt"))
+calendar_dates = pd.read_csv(z.open("calendar_dates.txt")) if "calendar_dates.txt" in z.namelist() else pd.DataFrame()
+routes = pd.read_csv(z.open("routes.txt"))
 
 result = {}
 
@@ -37,12 +36,10 @@ for target in TARGETS:
     route_id = target["route_id"]
     ligne = target["ligne"]
 
-    # Liste de tous les stop_ids enfants de l'arrêt
     stop_ids = stops[stops['parent_station'] == parent_station]['stop_id'].tolist()
     if parent_station in stops['stop_id'].values:
         stop_ids.append(parent_station)
 
-    # Trips de la ligne sélectionnée
     trips_line = trips[trips['route_id'] == route_id]
 
     if nom not in result:
@@ -72,11 +69,24 @@ for target in TARGETS:
 
         trips_today = trips_line[trips_line['service_id'].isin(active_service_ids)]
         trip_ids_today = trips_today['trip_id'].tolist()
+
         horaires_today = []
-        for stop_id in stop_ids:
-            horaires_today += stop_times[(stop_times['stop_id'] == stop_id) & (stop_times['trip_id'].isin(trip_ids_today))]['departure_time'].tolist()
-        # Format heures/minutes seulement (optionnel)
-        horaires_today = sorted([h[:5] for h in horaires_today if isinstance(h, str) and len(h) >= 5])
+
+        for trip_id in trip_ids_today:
+            stops_this_trip = stop_times[(stop_times['trip_id'] == trip_id) & (stop_times['stop_id'].isin(stop_ids))]
+            for _, st in stops_this_trip.iterrows():
+                time_str = st['departure_time'][:5]
+                stop_seq = st['stop_sequence']
+                dest = trips_today[trips_today['trip_id'] == trip_id]['trip_headsign'].values[0] if 'trip_headsign' in trips_today.columns else "?"
+                remaining = stop_times[(stop_times['trip_id'] == trip_id) & (stop_times['stop_sequence'] > stop_seq)]
+                remaining_stops = stops[stops['stop_id'].isin(remaining['stop_id'])][['stop_id', 'stop_name']]
+                horaires_today.append({
+                    "time": time_str,
+                    "destination": dest,
+                    "remaining_stops": remaining_stops['stop_name'].tolist()
+                })
+
+        horaires_today = sorted(horaires_today, key=lambda x: x["time"])
         result[nom][ligne][day_str] = horaires_today
 
 with open("static/horaires_export.json", "w", encoding="utf-8") as f:
