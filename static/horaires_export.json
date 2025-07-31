@@ -1,7 +1,7 @@
 {
   "Hippodrome de Vincennes": {
     "77": {
-      "2025-07-30": [
+      "2025-07-31": [
         {
           "time": "05:24",
           "destination": "Gare de Lyon",
@@ -1150,6 +1150,14 @@
         },
         {
           "time": "19:35",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER",
+            "Ecole du Breuil"
+          ]
+        },
+        {
+          "time": "19:35",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Gare de Bercy",
@@ -1168,14 +1176,6 @@
             "Porte de Reuilly",
             "Charenton- Wattignies",
             "Wattignies - Gravelle"
-          ]
-        },
-        {
-          "time": "19:35",
-          "destination": "Joinville-le-Pont RER",
-          "remaining_stops": [
-            "Joinville-le-Pont RER",
-            "Ecole du Breuil"
           ]
         },
         {
@@ -1575,7 +1575,7 @@
   },
   "École du Breuil": {
     "201": {
-      "2025-07-30": [
+      "2025-07-31": [
         {
           "time": "05:30",
           "destination": "Porte Dorée",
@@ -3625,7 +3625,7 @@
       ]
     },
     "77": {
-      "2025-07-30": [
+      "2025-07-31": [
         {
           "time": "05:16",
           "destination": "Gare de Lyon",
@@ -4710,6 +4710,13 @@
         },
         {
           "time": "18:36",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "18:36",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Gare de Bercy",
@@ -4729,13 +4736,6 @@
             "Porte de Reuilly",
             "Charenton- Wattignies",
             "Wattignies - Gravelle"
-          ]
-        },
-        {
-          "time": "18:36",
-          "destination": "Joinville-le-Pont RER",
-          "remaining_stops": [
-            "Joinville-le-Pont RER"
           ]
         },
         {
@@ -5198,7 +5198,7 @@
   },
   "Joinville-le-Pont": {
     "RER A": {
-      "2025-07-30": []
+      "2025-07-31": []
     }
   }
 }
