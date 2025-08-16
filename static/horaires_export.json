@@ -1,9 +1,9 @@
 {
   "Hippodrome de Vincennes": {
     "77": {
-      "2025-08-15": [
+      "2025-08-16": [
         {
-          "time": "06:24",
+          "time": "05:23",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -25,7 +25,7 @@
           ]
         },
         {
-          "time": "06:54",
+          "time": "05:43",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -47,7 +47,7 @@
           ]
         },
         {
-          "time": "07:24",
+          "time": "06:03",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -69,7 +69,29 @@
           ]
         },
         {
-          "time": "07:26",
+          "time": "06:23",
+          "destination": "Gare de Lyon",
+          "remaining_stops": [
+            "Porte de Reuilly",
+            "Charenton- Wattignies",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "06:30",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -77,7 +99,7 @@
           ]
         },
         {
-          "time": "07:54",
+          "time": "06:43",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -99,7 +121,7 @@
           ]
         },
         {
-          "time": "07:56",
+          "time": "06:50",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -107,15 +129,7 @@
           ]
         },
         {
-          "time": "08:19",
-          "destination": "Joinville-le-Pont RER",
-          "remaining_stops": [
-            "Ecole du Breuil",
-            "Joinville-le-Pont RER"
-          ]
-        },
-        {
-          "time": "08:22",
+          "time": "07:03",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -137,7 +151,127 @@
           ]
         },
         {
-          "time": "08:42",
+          "time": "07:10",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "07:23",
+          "destination": "Gare de Lyon",
+          "remaining_stops": [
+            "Porte de Reuilly",
+            "Charenton- Wattignies",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "07:31",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "07:43",
+          "destination": "Gare de Lyon",
+          "remaining_stops": [
+            "Porte de Reuilly",
+            "Charenton- Wattignies",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "07:52",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "08:03",
+          "destination": "Gare de Lyon",
+          "remaining_stops": [
+            "Porte de Reuilly",
+            "Charenton- Wattignies",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "08:13",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "08:24",
+          "destination": "Gare de Lyon",
+          "remaining_stops": [
+            "Porte de Reuilly",
+            "Charenton- Wattignies",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "08:34",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -167,7 +301,7 @@
           ]
         },
         {
-          "time": "09:05",
+          "time": "08:56",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -175,7 +309,7 @@
           ]
         },
         {
-          "time": "09:08",
+          "time": "09:07",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -197,7 +331,7 @@
           ]
         },
         {
-          "time": "09:27",
+          "time": "09:20",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -205,7 +339,7 @@
           ]
         },
         {
-          "time": "09:31",
+          "time": "09:29",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -227,7 +361,7 @@
           ]
         },
         {
-          "time": "09:50",
+          "time": "09:44",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -257,7 +391,7 @@
           ]
         },
         {
-          "time": "10:13",
+          "time": "10:08",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -265,7 +399,7 @@
           ]
         },
         {
-          "time": "10:16",
+          "time": "10:14",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -287,7 +421,7 @@
           ]
         },
         {
-          "time": "10:35",
+          "time": "10:32",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -295,7 +429,7 @@
           ]
         },
         {
-          "time": "10:39",
+          "time": "10:36",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -317,7 +451,7 @@
           ]
         },
         {
-          "time": "10:57",
+          "time": "10:55",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -325,7 +459,7 @@
           ]
         },
         {
-          "time": "11:02",
+          "time": "10:59",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -377,7 +511,7 @@
           ]
         },
         {
-          "time": "11:42",
+          "time": "11:43",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -407,7 +541,7 @@
           ]
         },
         {
-          "time": "12:05",
+          "time": "12:08",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -437,7 +571,7 @@
           ]
         },
         {
-          "time": "12:28",
+          "time": "12:33",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -467,15 +601,7 @@
           ]
         },
         {
-          "time": "12:46",
-          "destination": "Joinville-le-Pont RER",
-          "remaining_stops": [
-            "Ecole du Breuil",
-            "Joinville-le-Pont RER"
-          ]
-        },
-        {
-          "time": "13:02",
+          "time": "12:58",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -505,7 +631,7 @@
           ]
         },
         {
-          "time": "13:18",
+          "time": "13:23",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -535,7 +661,7 @@
           ]
         },
         {
-          "time": "13:34",
+          "time": "13:48",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -543,7 +669,7 @@
           ]
         },
         {
-          "time": "13:47",
+          "time": "13:53",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -565,7 +691,7 @@
           ]
         },
         {
-          "time": "13:50",
+          "time": "14:12",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -573,7 +699,7 @@
           ]
         },
         {
-          "time": "14:03",
+          "time": "14:18",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -595,37 +721,7 @@
           ]
         },
         {
-          "time": "14:06",
-          "destination": "Joinville-le-Pont RER",
-          "remaining_stops": [
-            "Ecole du Breuil",
-            "Joinville-le-Pont RER"
-          ]
-        },
-        {
-          "time": "14:19",
-          "destination": "Gare de Lyon",
-          "remaining_stops": [
-            "Porte de Reuilly",
-            "Charenton- Wattignies",
-            "Gravelle - Reuilly",
-            "Gravelle - Liberté",
-            "Gravelle - Jaurès",
-            "Nicolaï",
-            "Vacassy - Santé publique",
-            "Plateau de Gravelle",
-            "Route de la Terrasse",
-            "Hôpitaux de Saint-Maurice",
-            "Porte de Charenton",
-            "Wattignies - Gravelle",
-            "Gare de Bercy",
-            "Ministère de l'Economie et des Finances / Gare de Lyon",
-            "Dugommier",
-            "Gare de Lyon"
-          ]
-        },
-        {
-          "time": "14:22",
+          "time": "14:33",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -655,15 +751,7 @@
           ]
         },
         {
-          "time": "14:38",
-          "destination": "Joinville-le-Pont RER",
-          "remaining_stops": [
-            "Ecole du Breuil",
-            "Joinville-le-Pont RER"
-          ]
-        },
-        {
-          "time": "14:51",
+          "time": "14:52",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -685,7 +773,7 @@
           ]
         },
         {
-          "time": "14:54",
+          "time": "14:53",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -693,7 +781,7 @@
           ]
         },
         {
-          "time": "15:07",
+          "time": "15:08",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -715,7 +803,7 @@
           ]
         },
         {
-          "time": "15:10",
+          "time": "15:12",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -723,7 +811,7 @@
           ]
         },
         {
-          "time": "15:23",
+          "time": "15:24",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -745,7 +833,7 @@
           ]
         },
         {
-          "time": "15:26",
+          "time": "15:31",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -753,7 +841,7 @@
           ]
         },
         {
-          "time": "15:39",
+          "time": "15:41",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -775,45 +863,15 @@
           ]
         },
         {
-          "time": "15:42",
+          "time": "15:48",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
             "Joinville-le-Pont RER"
-          ]
-        },
-        {
-          "time": "15:55",
-          "destination": "Gare de Lyon",
-          "remaining_stops": [
-            "Porte de Reuilly",
-            "Charenton- Wattignies",
-            "Gravelle - Reuilly",
-            "Gravelle - Liberté",
-            "Gravelle - Jaurès",
-            "Nicolaï",
-            "Vacassy - Santé publique",
-            "Plateau de Gravelle",
-            "Route de la Terrasse",
-            "Hôpitaux de Saint-Maurice",
-            "Porte de Charenton",
-            "Wattignies - Gravelle",
-            "Gare de Bercy",
-            "Ministère de l'Economie et des Finances / Gare de Lyon",
-            "Dugommier",
-            "Gare de Lyon"
           ]
         },
         {
           "time": "15:58",
-          "destination": "Joinville-le-Pont RER",
-          "remaining_stops": [
-            "Ecole du Breuil",
-            "Joinville-le-Pont RER"
-          ]
-        },
-        {
-          "time": "16:11",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -835,7 +893,7 @@
           ]
         },
         {
-          "time": "16:14",
+          "time": "16:04",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -843,7 +901,7 @@
           ]
         },
         {
-          "time": "16:27",
+          "time": "16:15",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -865,7 +923,7 @@
           ]
         },
         {
-          "time": "16:30",
+          "time": "16:20",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -873,7 +931,7 @@
           ]
         },
         {
-          "time": "16:43",
+          "time": "16:32",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -895,7 +953,7 @@
           ]
         },
         {
-          "time": "16:46",
+          "time": "16:36",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -903,7 +961,7 @@
           ]
         },
         {
-          "time": "17:00",
+          "time": "16:50",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -925,7 +983,7 @@
           ]
         },
         {
-          "time": "17:04",
+          "time": "16:52",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -933,7 +991,7 @@
           ]
         },
         {
-          "time": "17:17",
+          "time": "17:07",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -955,7 +1013,7 @@
           ]
         },
         {
-          "time": "17:21",
+          "time": "17:09",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -963,7 +1021,7 @@
           ]
         },
         {
-          "time": "17:34",
+          "time": "17:24",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -985,7 +1043,7 @@
           ]
         },
         {
-          "time": "17:40",
+          "time": "17:26",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -993,7 +1051,7 @@
           ]
         },
         {
-          "time": "17:51",
+          "time": "17:41",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -1012,18 +1070,18 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "17:45",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
           ]
         },
         {
           "time": "17:58",
-          "destination": "Joinville-le-Pont RER",
-          "remaining_stops": [
-            "Ecole du Breuil",
-            "Joinville-le-Pont RER"
-          ]
-        },
-        {
-          "time": "18:08",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -1045,7 +1103,7 @@
           ]
         },
         {
-          "time": "18:18",
+          "time": "18:03",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -1053,7 +1111,7 @@
           ]
         },
         {
-          "time": "18:28",
+          "time": "18:16",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -1075,7 +1133,7 @@
           ]
         },
         {
-          "time": "18:38",
+          "time": "18:21",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -1083,7 +1141,7 @@
           ]
         },
         {
-          "time": "18:48",
+          "time": "18:36",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -1105,7 +1163,7 @@
           ]
         },
         {
-          "time": "18:58",
+          "time": "18:40",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -1113,7 +1171,7 @@
           ]
         },
         {
-          "time": "19:08",
+          "time": "18:56",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -1135,7 +1193,7 @@
           ]
         },
         {
-          "time": "19:18",
+          "time": "19:00",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -1143,7 +1201,7 @@
           ]
         },
         {
-          "time": "19:28",
+          "time": "19:16",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -1165,7 +1223,7 @@
           ]
         },
         {
-          "time": "19:40",
+          "time": "19:20",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -1173,7 +1231,7 @@
           ]
         },
         {
-          "time": "19:48",
+          "time": "19:39",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -1195,7 +1253,7 @@
           ]
         },
         {
-          "time": "20:02",
+          "time": "19:41",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -1203,7 +1261,15 @@
           ]
         },
         {
-          "time": "20:08",
+          "time": "20:03",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "20:04",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -1225,7 +1291,7 @@
           ]
         },
         {
-          "time": "20:24",
+          "time": "20:25",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -1233,7 +1299,7 @@
           ]
         },
         {
-          "time": "20:31",
+          "time": "20:29",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -1255,7 +1321,7 @@
           ]
         },
         {
-          "time": "20:45",
+          "time": "20:49",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -1263,7 +1329,7 @@
           ]
         },
         {
-          "time": "20:54",
+          "time": "20:53",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -1285,7 +1351,7 @@
           ]
         },
         {
-          "time": "21:06",
+          "time": "21:12",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -1293,7 +1359,7 @@
           ]
         },
         {
-          "time": "21:19",
+          "time": "21:18",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -1315,7 +1381,7 @@
           ]
         },
         {
-          "time": "21:31",
+          "time": "21:36",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -1323,7 +1389,7 @@
           ]
         },
         {
-          "time": "21:44",
+          "time": "21:43",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -1345,7 +1411,7 @@
           ]
         },
         {
-          "time": "21:55",
+          "time": "22:00",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -1353,7 +1419,7 @@
           ]
         },
         {
-          "time": "22:09",
+          "time": "22:08",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -1375,7 +1441,7 @@
           ]
         },
         {
-          "time": "22:20",
+          "time": "22:25",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -1383,7 +1449,7 @@
           ]
         },
         {
-          "time": "22:34",
+          "time": "22:33",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -1405,7 +1471,7 @@
           ]
         },
         {
-          "time": "22:45",
+          "time": "22:50",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -1413,7 +1479,7 @@
           ]
         },
         {
-          "time": "22:59",
+          "time": "22:58",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -1435,7 +1501,7 @@
           ]
         },
         {
-          "time": "23:10",
+          "time": "23:15",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -1443,7 +1509,7 @@
           ]
         },
         {
-          "time": "23:24",
+          "time": "23:23",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -1465,7 +1531,7 @@
           ]
         },
         {
-          "time": "23:35",
+          "time": "23:40",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -1473,7 +1539,7 @@
           ]
         },
         {
-          "time": "23:49",
+          "time": "23:48",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -1495,7 +1561,7 @@
           ]
         },
         {
-          "time": "24:00",
+          "time": "24:04",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -1503,7 +1569,7 @@
           ]
         },
         {
-          "time": "24:14",
+          "time": "24:13",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -1525,7 +1591,7 @@
           ]
         },
         {
-          "time": "24:25",
+          "time": "24:29",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -1533,7 +1599,7 @@
           ]
         },
         {
-          "time": "24:39",
+          "time": "24:38",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -1555,7 +1621,7 @@
           ]
         },
         {
-          "time": "24:50",
+          "time": "24:54",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -1563,7 +1629,7 @@
           ]
         },
         {
-          "time": "25:15",
+          "time": "25:19",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -1571,7 +1637,7 @@
           ]
         },
         {
-          "time": "25:40",
+          "time": "25:44",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -1583,7 +1649,7 @@
   },
   "École du Breuil": {
     "201": {
-      "2025-08-15": [
+      "2025-08-16": [
         {
           "time": "06:02",
           "destination": "Porte Dorée",
@@ -1600,7 +1666,7 @@
           ]
         },
         {
-          "time": "06:34",
+          "time": "06:31",
           "destination": "Porte Dorée",
           "remaining_stops": [
             "Stade Léo Lagrange",
@@ -1615,7 +1681,7 @@
           ]
         },
         {
-          "time": "06:39",
+          "time": "06:37",
           "destination": "Champigny - Diderot - La Plage",
           "remaining_stops": [
             "Diane",
@@ -1632,7 +1698,7 @@
           ]
         },
         {
-          "time": "07:00",
+          "time": "06:56",
           "destination": "Porte Dorée",
           "remaining_stops": [
             "Stade Léo Lagrange",
@@ -1647,7 +1713,24 @@
           ]
         },
         {
-          "time": "12:11",
+          "time": "07:04",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "07:16",
           "destination": "Porte Dorée",
           "remaining_stops": [
             "Stade Léo Lagrange",
@@ -1659,78 +1742,411 @@
             "Parc Zoologique",
             "Alphand",
             "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "07:32",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "07:41",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "07:56",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "08:06",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "08:21",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "08:32",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "08:47",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "08:57",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "09:11",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "09:23",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "09:36",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "09:48",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "10:01",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "10:13",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "10:26",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "10:38",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "10:51",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "11:03",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "11:16",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "11:28",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "11:42",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "11:53",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "12:06",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "12:13",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "12:23",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
           ]
         },
         {
           "time": "12:33",
-          "destination": "Champigny - Diderot - La Plage",
-          "remaining_stops": [
-            "Diane",
-            "Jacques Decour",
-            "Verdun - La Plage",
-            "Verdun - Charles Floquet",
-            "Bel Air",
-            "Champigny - Diderot - La Plage",
-            "Dagoty",
-            "Verdun",
-            "Carrefour de la Résistance",
-            "Joinville-le-Pont RER",
-            "Charles Floquet - Diderot"
-          ]
-        },
-        {
-          "time": "16:50",
-          "destination": "Champigny - Diderot - La Plage",
-          "remaining_stops": [
-            "Diane",
-            "Jacques Decour",
-            "Verdun - La Plage",
-            "Verdun - Charles Floquet",
-            "Bel Air",
-            "Champigny - Diderot - La Plage",
-            "Dagoty",
-            "Verdun",
-            "Carrefour de la Résistance",
-            "Joinville-le-Pont RER",
-            "Charles Floquet - Diderot"
-          ]
-        },
-        {
-          "time": "17:01",
-          "destination": "Champigny - Diderot - La Plage",
-          "remaining_stops": [
-            "Diane",
-            "Jacques Decour",
-            "Verdun - La Plage",
-            "Verdun - Charles Floquet",
-            "Bel Air",
-            "Champigny - Diderot - La Plage",
-            "Dagoty",
-            "Verdun",
-            "Carrefour de la Résistance",
-            "Joinville-le-Pont RER",
-            "Charles Floquet - Diderot"
-          ]
-        },
-        {
-          "time": "17:12",
-          "destination": "Champigny - Diderot - La Plage",
-          "remaining_stops": [
-            "Diane",
-            "Jacques Decour",
-            "Verdun - La Plage",
-            "Verdun - Charles Floquet",
-            "Bel Air",
-            "Champigny - Diderot - La Plage",
-            "Dagoty",
-            "Verdun",
-            "Carrefour de la Résistance",
-            "Joinville-le-Pont RER",
-            "Charles Floquet - Diderot"
-          ]
-        },
-        {
-          "time": "17:53",
           "destination": "Porte Dorée",
           "remaining_stops": [
             "Stade Léo Lagrange",
@@ -1745,37 +2161,7 @@
           ]
         },
         {
-          "time": "18:40",
-          "destination": "Porte Dorée",
-          "remaining_stops": [
-            "Stade Léo Lagrange",
-            "Plaine de la Faluère",
-            "Demi Lune - Parc Zoologique",
-            "Mortemart",
-            "Pyramide - Parc Floral",
-            "Porte Dorée",
-            "Parc Zoologique",
-            "Alphand",
-            "Tourelle - Daumesnil"
-          ]
-        },
-        {
-          "time": "19:16",
-          "destination": "Porte Dorée",
-          "remaining_stops": [
-            "Stade Léo Lagrange",
-            "Plaine de la Faluère",
-            "Demi Lune - Parc Zoologique",
-            "Mortemart",
-            "Pyramide - Parc Floral",
-            "Porte Dorée",
-            "Parc Zoologique",
-            "Alphand",
-            "Tourelle - Daumesnil"
-          ]
-        },
-        {
-          "time": "19:44",
+          "time": "12:41",
           "destination": "Champigny - Diderot - La Plage",
           "remaining_stops": [
             "Diane",
@@ -1792,7 +2178,7 @@
           ]
         },
         {
-          "time": "21:44",
+          "time": "12:53",
           "destination": "Porte Dorée",
           "remaining_stops": [
             "Stade Léo Lagrange",
@@ -1807,7 +2193,7 @@
           ]
         },
         {
-          "time": "22:22",
+          "time": "12:59",
           "destination": "Champigny - Diderot - La Plage",
           "remaining_stops": [
             "Diane",
@@ -1824,7 +2210,7 @@
           ]
         },
         {
-          "time": "22:44",
+          "time": "13:13",
           "destination": "Porte Dorée",
           "remaining_stops": [
             "Stade Léo Lagrange",
@@ -1839,7 +2225,1144 @@
           ]
         },
         {
-          "time": "22:44",
+          "time": "13:17",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "13:33",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "13:35",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "13:53",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "13:54",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "14:13",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "14:14",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "14:33",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "14:34",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "14:53",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "14:54",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "15:09",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "15:14",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "15:24",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "15:29",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "15:39",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "15:44",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "15:54",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "15:59",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "16:09",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "16:14",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "16:24",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "16:29",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "16:39",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "16:44",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "16:54",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "16:59",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "17:09",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "17:14",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "17:24",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "17:29",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "17:36",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "17:44",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "17:48",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "17:59",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "18:01",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "18:13",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "18:14",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "18:25",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "18:26",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "18:37",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "18:38",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "18:47",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "18:50",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "18:59",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "19:01",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "19:11",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "19:13",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "19:24",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "19:25",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "19:36",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "19:39",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "19:47",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "19:55",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "20:05",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "20:11",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "20:24",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "20:27",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "20:42",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "20:43",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "21:02",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "21:03",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "21:21",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "21:23",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "21:41",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "21:43",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "22:01",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "22:03",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "22:21",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "22:23",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Joinville-le-Pont RER",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "22:41",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "22:43",
           "destination": "Champigny - Diderot - La Plage",
           "remaining_stops": [
             "Diane",
@@ -1858,7 +3381,76 @@
       ]
     },
     "77": {
-      "2025-08-15": [
+      "2025-08-16": [
+        {
+          "time": "05:16",
+          "destination": "Gare de Lyon",
+          "remaining_stops": [
+            "Porte de Reuilly",
+            "Charenton- Wattignies",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Hippodrome de Vincennes",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "05:36",
+          "destination": "Gare de Lyon",
+          "remaining_stops": [
+            "Porte de Reuilly",
+            "Charenton- Wattignies",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Hippodrome de Vincennes",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "05:56",
+          "destination": "Gare de Lyon",
+          "remaining_stops": [
+            "Porte de Reuilly",
+            "Charenton- Wattignies",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Hippodrome de Vincennes",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Gare de Lyon"
+          ]
+        },
         {
           "time": "06:16",
           "destination": "Gare de Lyon",
@@ -1883,7 +3475,14 @@
           ]
         },
         {
-          "time": "06:46",
+          "time": "06:34",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "06:36",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -1903,6 +3502,43 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "06:54",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "06:56",
+          "destination": "Gare de Lyon",
+          "remaining_stops": [
+            "Porte de Reuilly",
+            "Charenton- Wattignies",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Hippodrome de Vincennes",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "07:14",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
           ]
         },
         {
@@ -1929,14 +3565,14 @@
           ]
         },
         {
-          "time": "07:30",
+          "time": "07:35",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "07:46",
+          "time": "07:36",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -1959,14 +3595,14 @@
           ]
         },
         {
-          "time": "08:00",
+          "time": "07:56",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "08:14",
+          "time": "07:56",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -1989,7 +3625,30 @@
           ]
         },
         {
-          "time": "08:23",
+          "time": "08:16",
+          "destination": "Gare de Lyon",
+          "remaining_stops": [
+            "Porte de Reuilly",
+            "Charenton- Wattignies",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Hippodrome de Vincennes",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "08:18",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
@@ -2019,14 +3678,14 @@
           ]
         },
         {
-          "time": "08:46",
+          "time": "08:39",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "09:00",
+          "time": "08:58",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -2049,14 +3708,14 @@
           ]
         },
         {
-          "time": "09:09",
+          "time": "09:01",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "09:23",
+          "time": "09:20",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -2079,14 +3738,14 @@
           ]
         },
         {
-          "time": "09:31",
+          "time": "09:25",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "09:44",
+          "time": "09:43",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -2109,14 +3768,14 @@
           ]
         },
         {
-          "time": "09:54",
+          "time": "09:49",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "10:08",
+          "time": "10:06",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -2139,14 +3798,14 @@
           ]
         },
         {
-          "time": "10:17",
+          "time": "10:13",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "10:31",
+          "time": "10:29",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -2169,14 +3828,14 @@
           ]
         },
         {
-          "time": "10:39",
+          "time": "10:37",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "10:54",
+          "time": "10:52",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -2199,14 +3858,14 @@
           ]
         },
         {
-          "time": "11:01",
+          "time": "11:00",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "11:15",
+          "time": "11:16",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -2229,14 +3888,14 @@
           ]
         },
         {
-          "time": "11:23",
+          "time": "11:24",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "11:40",
+          "time": "11:41",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -2259,14 +3918,14 @@
           ]
         },
         {
-          "time": "11:46",
+          "time": "11:48",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "12:05",
+          "time": "12:06",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -2289,14 +3948,14 @@
           ]
         },
         {
-          "time": "12:09",
+          "time": "12:13",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "12:30",
+          "time": "12:31",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -2319,21 +3978,14 @@
           ]
         },
         {
-          "time": "12:33",
+          "time": "12:38",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "12:51",
-          "destination": "Joinville-le-Pont RER",
-          "remaining_stops": [
-            "Joinville-le-Pont RER"
-          ]
-        },
-        {
-          "time": "12:55",
+          "time": "12:56",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -2356,14 +4008,14 @@
           ]
         },
         {
-          "time": "13:07",
+          "time": "13:03",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "13:20",
+          "time": "13:21",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -2386,21 +4038,14 @@
           ]
         },
         {
-          "time": "13:23",
+          "time": "13:28",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "13:39",
-          "destination": "Joinville-le-Pont RER",
-          "remaining_stops": [
-            "Joinville-le-Pont RER"
-          ]
-        },
-        {
-          "time": "13:39",
+          "time": "13:46",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -2423,37 +4068,7 @@
           ]
         },
         {
-          "time": "13:55",
-          "destination": "Joinville-le-Pont RER",
-          "remaining_stops": [
-            "Joinville-le-Pont RER"
-          ]
-        },
-        {
-          "time": "13:55",
-          "destination": "Gare de Lyon",
-          "remaining_stops": [
-            "Porte de Reuilly",
-            "Charenton- Wattignies",
-            "Gravelle - Reuilly",
-            "Gravelle - Liberté",
-            "Gravelle - Jaurès",
-            "Nicolaï",
-            "Hippodrome de Vincennes",
-            "Vacassy - Santé publique",
-            "Plateau de Gravelle",
-            "Route de la Terrasse",
-            "Hôpitaux de Saint-Maurice",
-            "Porte de Charenton",
-            "Wattignies - Gravelle",
-            "Gare de Bercy",
-            "Ministère de l'Economie et des Finances / Gare de Lyon",
-            "Dugommier",
-            "Gare de Lyon"
-          ]
-        },
-        {
-          "time": "14:11",
+          "time": "13:53",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
@@ -2483,14 +4098,14 @@
           ]
         },
         {
-          "time": "14:27",
+          "time": "14:17",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "14:27",
+          "time": "14:28",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -2513,14 +4128,14 @@
           ]
         },
         {
-          "time": "14:43",
+          "time": "14:38",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "14:43",
+          "time": "14:45",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -2543,14 +4158,14 @@
           ]
         },
         {
-          "time": "14:59",
+          "time": "14:58",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "14:59",
+          "time": "15:01",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -2573,14 +4188,14 @@
           ]
         },
         {
-          "time": "15:15",
+          "time": "15:17",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "15:15",
+          "time": "15:17",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -2603,14 +4218,37 @@
           ]
         },
         {
-          "time": "15:31",
+          "time": "15:34",
+          "destination": "Gare de Lyon",
+          "remaining_stops": [
+            "Porte de Reuilly",
+            "Charenton- Wattignies",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Hippodrome de Vincennes",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "15:36",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "15:31",
+          "time": "15:51",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -2633,14 +4271,14 @@
           ]
         },
         {
-          "time": "15:47",
+          "time": "15:53",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "15:47",
+          "time": "16:08",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -2663,37 +4301,14 @@
           ]
         },
         {
-          "time": "16:03",
-          "destination": "Gare de Lyon",
-          "remaining_stops": [
-            "Porte de Reuilly",
-            "Charenton- Wattignies",
-            "Gravelle - Reuilly",
-            "Gravelle - Liberté",
-            "Gravelle - Jaurès",
-            "Nicolaï",
-            "Hippodrome de Vincennes",
-            "Vacassy - Santé publique",
-            "Plateau de Gravelle",
-            "Route de la Terrasse",
-            "Hôpitaux de Saint-Maurice",
-            "Porte de Charenton",
-            "Wattignies - Gravelle",
-            "Gare de Bercy",
-            "Ministère de l'Economie et des Finances / Gare de Lyon",
-            "Dugommier",
-            "Gare de Lyon"
-          ]
-        },
-        {
-          "time": "16:04",
+          "time": "16:09",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "16:19",
+          "time": "16:25",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -2716,51 +4331,51 @@
           ]
         },
         {
-          "time": "16:20",
+          "time": "16:25",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "16:35",
-          "destination": "Gare de Lyon",
-          "remaining_stops": [
-            "Porte de Reuilly",
-            "Charenton- Wattignies",
-            "Gravelle - Reuilly",
-            "Gravelle - Liberté",
-            "Gravelle - Jaurès",
-            "Nicolaï",
-            "Hippodrome de Vincennes",
-            "Vacassy - Santé publique",
-            "Plateau de Gravelle",
-            "Route de la Terrasse",
-            "Hôpitaux de Saint-Maurice",
-            "Porte de Charenton",
-            "Wattignies - Gravelle",
-            "Gare de Bercy",
-            "Ministère de l'Economie et des Finances / Gare de Lyon",
-            "Dugommier",
-            "Gare de Lyon"
-          ]
-        },
-        {
-          "time": "16:36",
+          "time": "16:41",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "16:52",
+          "time": "16:42",
+          "destination": "Gare de Lyon",
+          "remaining_stops": [
+            "Porte de Reuilly",
+            "Charenton- Wattignies",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Hippodrome de Vincennes",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "16:57",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "16:52",
+          "time": "16:59",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -2783,14 +4398,14 @@
           ]
         },
         {
-          "time": "17:09",
+          "time": "17:14",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "17:09",
+          "time": "17:16",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -2813,14 +4428,14 @@
           ]
         },
         {
-          "time": "17:26",
+          "time": "17:31",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "17:26",
+          "time": "17:33",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -2843,37 +4458,14 @@
           ]
         },
         {
-          "time": "17:43",
-          "destination": "Gare de Lyon",
-          "remaining_stops": [
-            "Porte de Reuilly",
-            "Charenton- Wattignies",
-            "Gravelle - Reuilly",
-            "Gravelle - Liberté",
-            "Gravelle - Jaurès",
-            "Nicolaï",
-            "Hippodrome de Vincennes",
-            "Vacassy - Santé publique",
-            "Plateau de Gravelle",
-            "Route de la Terrasse",
-            "Hôpitaux de Saint-Maurice",
-            "Porte de Charenton",
-            "Wattignies - Gravelle",
-            "Gare de Bercy",
-            "Ministère de l'Economie et des Finances / Gare de Lyon",
-            "Dugommier",
-            "Gare de Lyon"
-          ]
-        },
-        {
-          "time": "17:45",
+          "time": "17:50",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "18:00",
+          "time": "17:50",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -2896,44 +4488,44 @@
           ]
         },
         {
-          "time": "18:03",
+          "time": "18:08",
+          "destination": "Gare de Lyon",
+          "remaining_stops": [
+            "Porte de Reuilly",
+            "Charenton- Wattignies",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Hippodrome de Vincennes",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "18:09",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "18:20",
-          "destination": "Gare de Lyon",
-          "remaining_stops": [
-            "Porte de Reuilly",
-            "Charenton- Wattignies",
-            "Gravelle - Reuilly",
-            "Gravelle - Liberté",
-            "Gravelle - Jaurès",
-            "Nicolaï",
-            "Hippodrome de Vincennes",
-            "Vacassy - Santé publique",
-            "Plateau de Gravelle",
-            "Route de la Terrasse",
-            "Hôpitaux de Saint-Maurice",
-            "Porte de Charenton",
-            "Wattignies - Gravelle",
-            "Gare de Bercy",
-            "Ministère de l'Economie et des Finances / Gare de Lyon",
-            "Dugommier",
-            "Gare de Lyon"
-          ]
-        },
-        {
-          "time": "18:23",
+          "time": "18:27",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "18:40",
+          "time": "18:28",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -2956,14 +4548,14 @@
           ]
         },
         {
-          "time": "18:43",
+          "time": "18:46",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "19:00",
+          "time": "18:48",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -2986,14 +4578,14 @@
           ]
         },
         {
-          "time": "19:03",
+          "time": "19:06",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "19:20",
+          "time": "19:08",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -3016,14 +4608,14 @@
           ]
         },
         {
-          "time": "19:23",
+          "time": "19:26",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "19:40",
+          "time": "19:31",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -3046,14 +4638,14 @@
           ]
         },
         {
-          "time": "19:45",
+          "time": "19:47",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "20:00",
+          "time": "19:56",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -3076,14 +4668,14 @@
           ]
         },
         {
-          "time": "20:07",
+          "time": "20:09",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "20:23",
+          "time": "20:21",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -3106,7 +4698,7 @@
           ]
         },
         {
-          "time": "20:29",
+          "time": "20:31",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
@@ -3136,14 +4728,7 @@
           ]
         },
         {
-          "time": "20:50",
-          "destination": "Joinville-le-Pont RER",
-          "remaining_stops": [
-            "Joinville-le-Pont RER"
-          ]
-        },
-        {
-          "time": "21:10",
+          "time": "20:54",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
@@ -3173,7 +4758,7 @@
           ]
         },
         {
-          "time": "21:35",
+          "time": "21:17",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
@@ -3203,7 +4788,7 @@
           ]
         },
         {
-          "time": "21:59",
+          "time": "21:40",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
@@ -3233,7 +4818,7 @@
           ]
         },
         {
-          "time": "22:24",
+          "time": "22:04",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
@@ -3263,7 +4848,7 @@
           ]
         },
         {
-          "time": "22:49",
+          "time": "22:29",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
@@ -3293,7 +4878,7 @@
           ]
         },
         {
-          "time": "23:14",
+          "time": "22:54",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
@@ -3323,7 +4908,7 @@
           ]
         },
         {
-          "time": "23:39",
+          "time": "23:19",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
@@ -3353,7 +4938,7 @@
           ]
         },
         {
-          "time": "24:04",
+          "time": "23:44",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
@@ -3383,7 +4968,7 @@
           ]
         },
         {
-          "time": "24:29",
+          "time": "24:08",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
@@ -3413,21 +4998,28 @@
           ]
         },
         {
-          "time": "24:54",
+          "time": "24:33",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "25:19",
+          "time": "24:58",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "25:44",
+          "time": "25:23",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "25:48",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
@@ -3438,7 +5030,7 @@
   },
   "Joinville-le-Pont": {
     "RER A": {
-      "2025-08-15": []
+      "2025-08-16": []
     }
   }
 }
