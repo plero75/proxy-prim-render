@@ -1,14 +1,44 @@
 {
   "Hippodrome de Vincennes": {
     "77": {
-      "2025-08-20": []
+      "2025-08-21": []
     }
   },
   "École du Breuil": {
     "201": {
-      "2025-08-20": [
+      "2025-08-21": [
         {
-          "time": "18:45",
+          "time": "17:53",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "19:16",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "19:44",
           "destination": "Champigny - Diderot - La Plage",
           "remaining_stops": [
             "Diane",
@@ -25,7 +55,7 @@
           ]
         },
         {
-          "time": "19:31",
+          "time": "21:44",
           "destination": "Porte Dorée",
           "remaining_stops": [
             "Stade Léo Lagrange",
@@ -42,12 +72,12 @@
       ]
     },
     "77": {
-      "2025-08-20": []
+      "2025-08-21": []
     }
   },
   "Joinville-le-Pont": {
     "RER A": {
-      "2025-08-20": []
+      "2025-08-21": []
     }
   }
 }
