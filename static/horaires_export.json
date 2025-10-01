@@ -1,7 +1,7 @@
 {
   "Hippodrome de Vincennes": {
     "77": {
-      "2025-09-30": [
+      "2025-10-01": [
         {
           "time": "05:20",
           "destination": "Gare de Lyon",
@@ -1897,7 +1897,7 @@
   },
   "École du Breuil": {
     "201": {
-      "2025-09-30": [
+      "2025-10-01": [
         {
           "time": "05:30",
           "destination": "Porte Dorée",
@@ -4715,7 +4715,7 @@
       ]
     },
     "77": {
-      "2025-09-30": [
+      "2025-10-01": [
         {
           "time": "05:18",
           "destination": "Gare de Lyon",
@@ -4923,6 +4923,13 @@
         },
         {
           "time": "07:33",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "07:33",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Porte de Reuilly",
@@ -4942,13 +4949,6 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
-          ]
-        },
-        {
-          "time": "07:33",
-          "destination": "Joinville-le-Pont RER",
-          "remaining_stops": [
-            "Joinville-le-Pont RER"
           ]
         },
         {
@@ -6611,7 +6611,7 @@
   },
   "Joinville-le-Pont": {
     "RER A": {
-      "2025-09-30": []
+      "2025-10-01": []
     }
   }
 }
