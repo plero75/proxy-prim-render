@@ -1,12 +1,12 @@
 {
   "Hippodrome de Vincennes": {
     "77": {
-      "2025-10-20": [
+      "2025-10-21": [
         {
           "time": "05:20",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -17,8 +17,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -28,7 +28,7 @@
           "time": "05:45",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -39,8 +39,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -50,7 +50,7 @@
           "time": "06:03",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -61,8 +61,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -72,7 +72,7 @@
           "time": "06:20",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -83,8 +83,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -102,7 +102,7 @@
           "time": "06:35",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -113,8 +113,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -124,7 +124,7 @@
           "time": "06:50",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -135,8 +135,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -154,7 +154,7 @@
           "time": "07:05",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -165,8 +165,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -184,7 +184,7 @@
           "time": "07:20",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -195,8 +195,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -214,7 +214,7 @@
           "time": "07:35",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -225,8 +225,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -244,7 +244,7 @@
           "time": "07:50",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -255,8 +255,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -274,7 +274,7 @@
           "time": "08:05",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -285,8 +285,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -304,7 +304,7 @@
           "time": "08:21",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -315,8 +315,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -326,7 +326,7 @@
           "time": "08:38",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -337,8 +337,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -356,7 +356,7 @@
           "time": "08:55",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -367,8 +367,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -386,7 +386,7 @@
           "time": "09:12",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -397,8 +397,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -416,7 +416,7 @@
           "time": "09:29",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -427,8 +427,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -446,7 +446,7 @@
           "time": "09:46",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -457,8 +457,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -476,7 +476,7 @@
           "time": "10:03",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -487,8 +487,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -506,7 +506,7 @@
           "time": "10:20",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -517,8 +517,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -544,7 +544,7 @@
           "time": "10:38",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -555,8 +555,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -574,7 +574,7 @@
           "time": "10:56",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -585,8 +585,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -604,7 +604,7 @@
           "time": "11:14",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -615,8 +615,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -634,7 +634,7 @@
           "time": "11:32",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -645,8 +645,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -664,7 +664,7 @@
           "time": "11:50",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -675,8 +675,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -694,7 +694,7 @@
           "time": "12:08",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -705,8 +705,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -724,7 +724,7 @@
           "time": "12:26",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -735,8 +735,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -754,7 +754,7 @@
           "time": "12:44",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -765,8 +765,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -784,7 +784,7 @@
           "time": "13:02",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -795,8 +795,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -814,7 +814,7 @@
           "time": "13:20",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -825,8 +825,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -844,7 +844,7 @@
           "time": "13:38",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -855,8 +855,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -874,7 +874,7 @@
           "time": "13:56",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -885,8 +885,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -904,7 +904,7 @@
           "time": "14:14",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -915,8 +915,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -934,7 +934,7 @@
           "time": "14:32",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -945,8 +945,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -964,7 +964,7 @@
           "time": "14:49",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -975,8 +975,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -994,7 +994,7 @@
           "time": "15:06",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1005,8 +1005,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -1024,7 +1024,7 @@
           "time": "15:23",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1035,8 +1035,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -1054,7 +1054,7 @@
           "time": "15:40",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1065,8 +1065,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -1084,7 +1084,7 @@
           "time": "15:57",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1095,8 +1095,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -1114,7 +1114,7 @@
           "time": "16:14",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1125,8 +1125,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -1144,7 +1144,7 @@
           "time": "16:31",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1155,8 +1155,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -1174,7 +1174,7 @@
           "time": "16:48",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1185,8 +1185,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -1204,7 +1204,7 @@
           "time": "17:05",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1215,8 +1215,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -1234,7 +1234,7 @@
           "time": "17:22",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1245,8 +1245,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -1264,7 +1264,7 @@
           "time": "17:40",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1275,8 +1275,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -1294,7 +1294,7 @@
           "time": "17:58",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1305,8 +1305,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -1324,7 +1324,7 @@
           "time": "18:17",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1335,8 +1335,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -1354,7 +1354,7 @@
           "time": "18:36",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1365,8 +1365,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -1384,7 +1384,7 @@
           "time": "18:56",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1395,8 +1395,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -1414,7 +1414,7 @@
           "time": "19:15",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1425,8 +1425,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -1444,7 +1444,7 @@
           "time": "19:35",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1455,8 +1455,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -1474,7 +1474,7 @@
           "time": "19:55",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1485,8 +1485,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -1502,17 +1502,9 @@
         },
         {
           "time": "20:15",
-          "destination": "Joinville-le-Pont RER",
-          "remaining_stops": [
-            "Ecole du Breuil",
-            "Joinville-le-Pont RER"
-          ]
-        },
-        {
-          "time": "20:15",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1523,11 +1515,19 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "20:15",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
           ]
         },
         {
@@ -1542,7 +1542,7 @@
           "time": "20:35",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1553,8 +1553,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -1572,7 +1572,7 @@
           "time": "20:55",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1583,8 +1583,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -1602,7 +1602,7 @@
           "time": "21:15",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1613,8 +1613,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -1632,7 +1632,7 @@
           "time": "21:40",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1643,8 +1643,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -1662,7 +1662,7 @@
           "time": "22:05",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1673,8 +1673,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -1700,7 +1700,7 @@
           "time": "22:30",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1711,8 +1711,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -1730,7 +1730,7 @@
           "time": "22:55",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1741,8 +1741,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -1760,7 +1760,7 @@
           "time": "23:20",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1771,8 +1771,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -1790,7 +1790,7 @@
           "time": "23:45",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1801,8 +1801,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -1820,7 +1820,7 @@
           "time": "24:09",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1831,8 +1831,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -1850,7 +1850,7 @@
           "time": "24:34",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1861,8 +1861,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -1897,7 +1897,7 @@
   },
   "École du Breuil": {
     "201": {
-      "2025-10-20": [
+      "2025-10-21": [
         {
           "time": "05:30",
           "destination": "Porte Dorée",
@@ -2092,6 +2092,21 @@
         },
         {
           "time": "06:54",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "06:54",
           "destination": "Champigny - Diderot - La Plage",
           "remaining_stops": [
             "Diane",
@@ -2105,21 +2120,6 @@
             "Verdun",
             "Carrefour de la Résistance",
             "Charles Floquet - Diderot"
-          ]
-        },
-        {
-          "time": "06:54",
-          "destination": "Porte Dorée",
-          "remaining_stops": [
-            "Stade Léo Lagrange",
-            "Plaine de la Faluère",
-            "Demi Lune - Parc Zoologique",
-            "Mortemart",
-            "Pyramide - Parc Floral",
-            "Porte Dorée",
-            "Parc Zoologique",
-            "Alphand",
-            "Tourelle - Daumesnil"
           ]
         },
         {
@@ -2156,21 +2156,6 @@
         },
         {
           "time": "07:13",
-          "destination": "Porte Dorée",
-          "remaining_stops": [
-            "Stade Léo Lagrange",
-            "Plaine de la Faluère",
-            "Demi Lune - Parc Zoologique",
-            "Mortemart",
-            "Pyramide - Parc Floral",
-            "Porte Dorée",
-            "Parc Zoologique",
-            "Alphand",
-            "Tourelle - Daumesnil"
-          ]
-        },
-        {
-          "time": "07:13",
           "destination": "Champigny - Diderot - La Plage",
           "remaining_stops": [
             "Diane",
@@ -2184,6 +2169,21 @@
             "Verdun",
             "Carrefour de la Résistance",
             "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "07:13",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
           ]
         },
         {
@@ -2284,51 +2284,34 @@
         },
         {
           "time": "07:53",
-          "destination": "Porte Dorée",
+          "destination": "Champigny - Diderot - La Plage",
           "remaining_stops": [
-            "Stade Léo Lagrange",
-            "Plaine de la Faluère",
-            "Demi Lune - Parc Zoologique",
-            "Mortemart",
-            "Pyramide - Parc Floral",
-            "Porte Dorée",
-            "Parc Zoologique",
-            "Alphand",
-            "Tourelle - Daumesnil"
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Joinville-le-Pont RER",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
           ]
         },
         {
           "time": "07:53",
-          "destination": "Champigny - Diderot - La Plage",
+          "destination": "Porte Dorée",
           "remaining_stops": [
-            "Diane",
-            "Jacques Decour",
-            "Verdun - La Plage",
-            "Verdun - Charles Floquet",
-            "Bel Air",
-            "Champigny - Diderot - La Plage",
-            "Dagoty",
-            "Joinville-le-Pont RER",
-            "Verdun",
-            "Carrefour de la Résistance",
-            "Charles Floquet - Diderot"
-          ]
-        },
-        {
-          "time": "08:03",
-          "destination": "Champigny - Diderot - La Plage",
-          "remaining_stops": [
-            "Diane",
-            "Jacques Decour",
-            "Verdun - La Plage",
-            "Verdun - Charles Floquet",
-            "Bel Air",
-            "Champigny - Diderot - La Plage",
-            "Dagoty",
-            "Joinville-le-Pont RER",
-            "Verdun",
-            "Carrefour de la Résistance",
-            "Charles Floquet - Diderot"
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
           ]
         },
         {
@@ -2344,6 +2327,23 @@
             "Parc Zoologique",
             "Alphand",
             "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "08:03",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Joinville-le-Pont RER",
+            "Verdun",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
           ]
         },
         {
@@ -2619,6 +2619,21 @@
         },
         {
           "time": "09:41",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "09:41",
           "destination": "Champigny - Diderot - La Plage",
           "remaining_stops": [
             "Diane",
@@ -2632,21 +2647,6 @@
             "Verdun",
             "Carrefour de la Résistance",
             "Charles Floquet - Diderot"
-          ]
-        },
-        {
-          "time": "09:41",
-          "destination": "Porte Dorée",
-          "remaining_stops": [
-            "Stade Léo Lagrange",
-            "Plaine de la Faluère",
-            "Demi Lune - Parc Zoologique",
-            "Mortemart",
-            "Pyramide - Parc Floral",
-            "Porte Dorée",
-            "Parc Zoologique",
-            "Alphand",
-            "Tourelle - Daumesnil"
           ]
         },
         {
@@ -3722,6 +3722,21 @@
         },
         {
           "time": "18:12",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "18:12",
           "destination": "Champigny - Diderot - La Plage",
           "remaining_stops": [
             "Diane",
@@ -3735,21 +3750,6 @@
             "Verdun",
             "Carrefour de la Résistance",
             "Charles Floquet - Diderot"
-          ]
-        },
-        {
-          "time": "18:12",
-          "destination": "Porte Dorée",
-          "remaining_stops": [
-            "Stade Léo Lagrange",
-            "Plaine de la Faluère",
-            "Demi Lune - Parc Zoologique",
-            "Mortemart",
-            "Pyramide - Parc Floral",
-            "Porte Dorée",
-            "Parc Zoologique",
-            "Alphand",
-            "Tourelle - Daumesnil"
           ]
         },
         {
@@ -4427,12 +4427,12 @@
       ]
     },
     "77": {
-      "2025-10-20": [
+      "2025-10-21": [
         {
           "time": "05:18",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -4444,8 +4444,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -4455,7 +4455,7 @@
           "time": "05:43",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -4467,8 +4467,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -4478,7 +4478,7 @@
           "time": "06:01",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -4490,8 +4490,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -4501,7 +4501,7 @@
           "time": "06:18",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -4513,8 +4513,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -4531,7 +4531,7 @@
           "time": "06:33",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -4543,8 +4543,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -4554,7 +4554,7 @@
           "time": "06:48",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -4566,8 +4566,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -4584,7 +4584,7 @@
           "time": "07:03",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -4596,8 +4596,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -4614,7 +4614,7 @@
           "time": "07:18",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -4626,8 +4626,31 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "07:33",
+          "destination": "Gare de Lyon",
+          "remaining_stops": [
+            "Porte de Reuilly",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Hippodrome de Vincennes",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -4641,33 +4664,10 @@
           ]
         },
         {
-          "time": "07:33",
-          "destination": "Gare de Lyon",
-          "remaining_stops": [
-            "Charenton- Wattignies",
-            "Gravelle - Reuilly",
-            "Gravelle - Liberté",
-            "Gravelle - Jaurès",
-            "Nicolaï",
-            "Hippodrome de Vincennes",
-            "Vacassy - Santé publique",
-            "Plateau de Gravelle",
-            "Route de la Terrasse",
-            "Hôpitaux de Saint-Maurice",
-            "Porte de Charenton",
-            "Wattignies - Gravelle",
-            "Porte de Reuilly",
-            "Gare de Bercy",
-            "Ministère de l'Economie et des Finances / Gare de Lyon",
-            "Dugommier",
-            "Gare de Lyon"
-          ]
-        },
-        {
           "time": "07:48",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -4679,8 +4679,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -4697,7 +4697,7 @@
           "time": "08:03",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -4709,8 +4709,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -4727,7 +4727,7 @@
           "time": "08:19",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -4739,8 +4739,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -4757,7 +4757,7 @@
           "time": "08:36",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -4769,8 +4769,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -4787,7 +4787,7 @@
           "time": "08:53",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -4799,8 +4799,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -4817,7 +4817,7 @@
           "time": "09:10",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -4829,8 +4829,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -4847,7 +4847,7 @@
           "time": "09:27",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -4859,8 +4859,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -4877,7 +4877,7 @@
           "time": "09:44",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -4889,8 +4889,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -4907,7 +4907,7 @@
           "time": "10:01",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -4919,8 +4919,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -4937,7 +4937,7 @@
           "time": "10:18",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -4949,8 +4949,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -4967,7 +4967,7 @@
           "time": "10:36",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -4979,8 +4979,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -4997,7 +4997,7 @@
           "time": "10:54",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5009,8 +5009,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5027,7 +5027,7 @@
           "time": "11:12",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5039,8 +5039,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5057,7 +5057,7 @@
           "time": "11:30",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5069,8 +5069,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5087,7 +5087,7 @@
           "time": "11:48",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5099,8 +5099,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5124,7 +5124,7 @@
           "time": "12:06",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5136,8 +5136,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5154,7 +5154,7 @@
           "time": "12:24",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5166,8 +5166,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5184,7 +5184,7 @@
           "time": "12:42",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5196,8 +5196,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5214,7 +5214,7 @@
           "time": "13:00",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5226,8 +5226,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5244,7 +5244,7 @@
           "time": "13:18",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5256,8 +5256,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5274,7 +5274,7 @@
           "time": "13:36",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5286,8 +5286,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5304,7 +5304,7 @@
           "time": "13:54",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5316,8 +5316,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5334,7 +5334,7 @@
           "time": "14:12",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5346,8 +5346,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5364,7 +5364,7 @@
           "time": "14:30",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5376,8 +5376,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5394,7 +5394,7 @@
           "time": "14:47",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5406,8 +5406,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5424,7 +5424,7 @@
           "time": "15:04",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5436,8 +5436,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5454,7 +5454,7 @@
           "time": "15:21",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5466,8 +5466,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5484,7 +5484,7 @@
           "time": "15:38",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5496,8 +5496,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5514,7 +5514,7 @@
           "time": "15:55",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5526,8 +5526,31 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "16:12",
+          "destination": "Gare de Lyon",
+          "remaining_stops": [
+            "Porte de Reuilly",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Hippodrome de Vincennes",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5541,10 +5564,10 @@
           ]
         },
         {
-          "time": "16:12",
+          "time": "16:29",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5556,8 +5579,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5568,36 +5591,13 @@
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
-          ]
-        },
-        {
-          "time": "16:29",
-          "destination": "Gare de Lyon",
-          "remaining_stops": [
-            "Charenton- Wattignies",
-            "Gravelle - Reuilly",
-            "Gravelle - Liberté",
-            "Gravelle - Jaurès",
-            "Nicolaï",
-            "Hippodrome de Vincennes",
-            "Vacassy - Santé publique",
-            "Plateau de Gravelle",
-            "Route de la Terrasse",
-            "Hôpitaux de Saint-Maurice",
-            "Porte de Charenton",
-            "Wattignies - Gravelle",
-            "Porte de Reuilly",
-            "Gare de Bercy",
-            "Ministère de l'Economie et des Finances / Gare de Lyon",
-            "Dugommier",
-            "Gare de Lyon"
           ]
         },
         {
           "time": "16:46",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5609,8 +5609,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5627,7 +5627,7 @@
           "time": "17:03",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5639,8 +5639,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5657,7 +5657,7 @@
           "time": "17:20",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5669,8 +5669,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5687,7 +5687,7 @@
           "time": "17:38",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5699,8 +5699,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5715,16 +5715,9 @@
         },
         {
           "time": "17:56",
-          "destination": "Joinville-le-Pont RER",
-          "remaining_stops": [
-            "Joinville-le-Pont RER"
-          ]
-        },
-        {
-          "time": "17:56",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5736,11 +5729,18 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "17:56",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
           ]
         },
         {
@@ -5754,7 +5754,7 @@
           "time": "18:15",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5766,8 +5766,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5784,7 +5784,7 @@
           "time": "18:34",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5796,8 +5796,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5814,7 +5814,7 @@
           "time": "18:54",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5826,8 +5826,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5844,7 +5844,7 @@
           "time": "19:13",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5856,8 +5856,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5874,7 +5874,7 @@
           "time": "19:33",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5886,8 +5886,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5904,7 +5904,7 @@
           "time": "19:53",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5916,8 +5916,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5934,7 +5934,7 @@
           "time": "20:13",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5946,8 +5946,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5964,7 +5964,7 @@
           "time": "20:33",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -5976,8 +5976,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -5994,7 +5994,7 @@
           "time": "20:53",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -6006,8 +6006,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -6024,7 +6024,7 @@
           "time": "21:13",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -6036,8 +6036,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -6061,7 +6061,7 @@
           "time": "21:38",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -6073,8 +6073,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -6091,7 +6091,7 @@
           "time": "22:03",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -6103,8 +6103,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -6121,7 +6121,7 @@
           "time": "22:28",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -6133,8 +6133,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -6158,7 +6158,7 @@
           "time": "22:53",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -6170,8 +6170,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -6188,7 +6188,7 @@
           "time": "23:18",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -6200,8 +6200,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -6218,7 +6218,7 @@
           "time": "23:43",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -6230,8 +6230,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -6248,7 +6248,7 @@
           "time": "24:07",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -6260,8 +6260,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -6278,7 +6278,7 @@
           "time": "24:32",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Charenton- Wattignies",
+            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -6290,8 +6290,8 @@
             "Hôpitaux de Saint-Maurice",
             "Porte de Charenton",
             "Wattignies - Gravelle",
-            "Porte de Reuilly",
             "Gare de Bercy",
+            "Charenton- Wattignies",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Gare de Lyon"
@@ -6323,7 +6323,7 @@
   },
   "Joinville-le-Pont": {
     "RER A": {
-      "2025-10-20": []
+      "2025-10-21": []
     }
   }
 }
