@@ -1,7 +1,7 @@
 {
   "Hippodrome de Vincennes": {
     "77": {
-      "2025-12-18": [
+      "2025-12-19": [
         {
           "time": "05:20",
           "destination": "Gare de Lyon",
@@ -444,36 +444,28 @@
         },
         {
           "time": "09:46",
-          "destination": "Joinville-le-Pont RER",
+          "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Ecole du Breuil",
-            "Joinville-le-Pont RER"
+            "Charenton- Wattignies",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Porte de Reuilly",
+            "Gare de Lyon"
           ]
         },
         {
           "time": "09:46",
-          "destination": "Gare de Lyon",
-          "remaining_stops": [
-            "Charenton- Wattignies",
-            "Gravelle - Reuilly",
-            "Gravelle - Liberté",
-            "Gravelle - Jaurès",
-            "Nicolaï",
-            "Vacassy - Santé publique",
-            "Plateau de Gravelle",
-            "Route de la Terrasse",
-            "Hôpitaux de Saint-Maurice",
-            "Porte de Charenton",
-            "Wattignies - Gravelle",
-            "Gare de Bercy",
-            "Ministère de l'Economie et des Finances / Gare de Lyon",
-            "Dugommier",
-            "Porte de Reuilly",
-            "Gare de Lyon"
-          ]
-        },
-        {
-          "time": "10:03",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -503,7 +495,7 @@
           ]
         },
         {
-          "time": "10:20",
+          "time": "10:03",
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Ecole du Breuil",
@@ -530,6 +522,14 @@
             "Dugommier",
             "Porte de Reuilly",
             "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "10:20",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
           ]
         },
         {
@@ -1502,6 +1502,14 @@
         },
         {
           "time": "20:15",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "20:15",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Charenton- Wattignies",
@@ -1520,14 +1528,6 @@
             "Dugommier",
             "Porte de Reuilly",
             "Gare de Lyon"
-          ]
-        },
-        {
-          "time": "20:15",
-          "destination": "Joinville-le-Pont RER",
-          "remaining_stops": [
-            "Ecole du Breuil",
-            "Joinville-le-Pont RER"
           ]
         },
         {
@@ -1897,10 +1897,10 @@
   },
   "École du Breuil": {
     "201": {
-      "2025-12-18": []
+      "2025-12-19": []
     },
     "77": {
-      "2025-12-18": [
+      "2025-12-19": [
         {
           "time": "05:18",
           "destination": "Gare de Lyon",
@@ -2108,6 +2108,13 @@
         },
         {
           "time": "07:33",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "07:33",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Charenton- Wattignies",
@@ -2127,13 +2134,6 @@
             "Dugommier",
             "Porte de Reuilly",
             "Gare de Lyon"
-          ]
-        },
-        {
-          "time": "07:33",
-          "destination": "Joinville-le-Pont RER",
-          "remaining_stops": [
-            "Joinville-le-Pont RER"
           ]
         },
         {
@@ -2558,13 +2558,6 @@
         },
         {
           "time": "11:48",
-          "destination": "Joinville-le-Pont RER",
-          "remaining_stops": [
-            "Joinville-le-Pont RER"
-          ]
-        },
-        {
-          "time": "11:48",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Charenton- Wattignies",
@@ -2584,6 +2577,13 @@
             "Dugommier",
             "Porte de Reuilly",
             "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "11:48",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
           ]
         },
         {
@@ -3008,36 +3008,13 @@
         },
         {
           "time": "16:12",
-          "destination": "Gare de Lyon",
+          "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
-            "Charenton- Wattignies",
-            "Gravelle - Reuilly",
-            "Gravelle - Liberté",
-            "Gravelle - Jaurès",
-            "Nicolaï",
-            "Hippodrome de Vincennes",
-            "Vacassy - Santé publique",
-            "Plateau de Gravelle",
-            "Route de la Terrasse",
-            "Hôpitaux de Saint-Maurice",
-            "Porte de Charenton",
-            "Wattignies - Gravelle",
-            "Gare de Bercy",
-            "Ministère de l'Economie et des Finances / Gare de Lyon",
-            "Dugommier",
-            "Porte de Reuilly",
-            "Gare de Lyon"
+            "Joinville-le-Pont RER"
           ]
         },
         {
           "time": "16:12",
-          "destination": "Joinville-le-Pont RER",
-          "remaining_stops": [
-            "Joinville-le-Pont RER"
-          ]
-        },
-        {
-          "time": "16:29",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Charenton- Wattignies",
@@ -3064,6 +3041,29 @@
           "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
             "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "16:29",
+          "destination": "Gare de Lyon",
+          "remaining_stops": [
+            "Charenton- Wattignies",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Hippodrome de Vincennes",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Porte de Reuilly",
+            "Gare de Lyon"
           ]
         },
         {
@@ -3188,6 +3188,13 @@
         },
         {
           "time": "17:56",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "17:56",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Charenton- Wattignies",
@@ -3207,13 +3214,6 @@
             "Dugommier",
             "Porte de Reuilly",
             "Gare de Lyon"
-          ]
-        },
-        {
-          "time": "17:56",
-          "destination": "Joinville-le-Pont RER",
-          "remaining_stops": [
-            "Joinville-le-Pont RER"
           ]
         },
         {
@@ -3796,7 +3796,7 @@
   },
   "Joinville-le-Pont": {
     "RER A": {
-      "2025-12-18": []
+      "2025-12-19": []
     }
   }
 }
