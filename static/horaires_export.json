@@ -1,11 +1,12 @@
 {
   "Hippodrome de Vincennes": {
     "77": {
-      "2025-12-24": [
+      "2025-12-25": [
         {
-          "time": "05:20",
+          "time": "06:19",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -20,14 +21,14 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "05:45",
+          "time": "06:44",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -42,14 +43,14 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "06:03",
+          "time": "07:09",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -64,36 +65,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "06:20",
-          "destination": "Gare de Lyon",
+          "time": "07:24",
+          "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
-            "Gravelle - Reuilly",
-            "Gravelle - Liberté",
-            "Gravelle - Jaurès",
-            "Nicolaï",
-            "Vacassy - Santé publique",
-            "Plateau de Gravelle",
-            "Route de la Terrasse",
-            "Hôpitaux de Saint-Maurice",
-            "Porte de Charenton",
-            "Wattignies - Gravelle",
-            "Gare de Bercy",
-            "Ministère de l'Economie et des Finances / Gare de Lyon",
-            "Dugommier",
-            "Porte de Reuilly",
-            "Charenton- Wattignies",
-            "Gare de Lyon"
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "06:35",
+          "time": "07:34",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -108,102 +95,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
-            "Gare de Lyon"
-          ]
-        },
-        {
-          "time": "06:50",
-          "destination": "Gare de Lyon",
-          "remaining_stops": [
-            "Gravelle - Reuilly",
-            "Gravelle - Liberté",
-            "Gravelle - Jaurès",
-            "Nicolaï",
-            "Vacassy - Santé publique",
-            "Plateau de Gravelle",
-            "Route de la Terrasse",
-            "Hôpitaux de Saint-Maurice",
-            "Porte de Charenton",
-            "Wattignies - Gravelle",
-            "Gare de Bercy",
-            "Ministère de l'Economie et des Finances / Gare de Lyon",
-            "Dugommier",
-            "Porte de Reuilly",
-            "Charenton- Wattignies",
-            "Gare de Lyon"
-          ]
-        },
-        {
-          "time": "07:05",
-          "destination": "Gare de Lyon",
-          "remaining_stops": [
-            "Gravelle - Reuilly",
-            "Gravelle - Liberté",
-            "Gravelle - Jaurès",
-            "Nicolaï",
-            "Vacassy - Santé publique",
-            "Plateau de Gravelle",
-            "Route de la Terrasse",
-            "Hôpitaux de Saint-Maurice",
-            "Porte de Charenton",
-            "Wattignies - Gravelle",
-            "Gare de Bercy",
-            "Ministère de l'Economie et des Finances / Gare de Lyon",
-            "Dugommier",
-            "Porte de Reuilly",
-            "Charenton- Wattignies",
-            "Gare de Lyon"
-          ]
-        },
-        {
-          "time": "07:20",
-          "destination": "Gare de Lyon",
-          "remaining_stops": [
-            "Gravelle - Reuilly",
-            "Gravelle - Liberté",
-            "Gravelle - Jaurès",
-            "Nicolaï",
-            "Vacassy - Santé publique",
-            "Plateau de Gravelle",
-            "Route de la Terrasse",
-            "Hôpitaux de Saint-Maurice",
-            "Porte de Charenton",
-            "Wattignies - Gravelle",
-            "Gare de Bercy",
-            "Ministère de l'Economie et des Finances / Gare de Lyon",
-            "Dugommier",
-            "Porte de Reuilly",
-            "Charenton- Wattignies",
-            "Gare de Lyon"
-          ]
-        },
-        {
-          "time": "07:35",
-          "destination": "Gare de Lyon",
-          "remaining_stops": [
-            "Gravelle - Reuilly",
-            "Gravelle - Liberté",
-            "Gravelle - Jaurès",
-            "Nicolaï",
-            "Vacassy - Santé publique",
-            "Plateau de Gravelle",
-            "Route de la Terrasse",
-            "Hôpitaux de Saint-Maurice",
-            "Porte de Charenton",
-            "Wattignies - Gravelle",
-            "Gare de Bercy",
-            "Ministère de l'Economie et des Finances / Gare de Lyon",
-            "Dugommier",
-            "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
           "time": "07:50",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "07:54",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -218,14 +125,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "08:05",
+          "time": "08:10",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "08:14",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -240,14 +155,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "08:21",
+          "time": "08:30",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "08:34",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -262,14 +185,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "08:38",
+          "time": "08:49",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "08:54",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -284,14 +215,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "08:55",
+          "time": "09:09",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "09:14",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -306,36 +245,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "09:12",
-          "destination": "Gare de Lyon",
+          "time": "09:28",
+          "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
-            "Gravelle - Reuilly",
-            "Gravelle - Liberté",
-            "Gravelle - Jaurès",
-            "Nicolaï",
-            "Vacassy - Santé publique",
-            "Plateau de Gravelle",
-            "Route de la Terrasse",
-            "Hôpitaux de Saint-Maurice",
-            "Porte de Charenton",
-            "Wattignies - Gravelle",
-            "Gare de Bercy",
-            "Ministère de l'Economie et des Finances / Gare de Lyon",
-            "Dugommier",
-            "Porte de Reuilly",
-            "Charenton- Wattignies",
-            "Gare de Lyon"
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "09:29",
+          "time": "09:32",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -350,14 +275,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
           "time": "09:46",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "09:50",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -372,14 +305,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "10:03",
+          "time": "10:04",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "10:08",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -394,14 +335,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "10:20",
+          "time": "10:23",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "10:26",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -416,14 +365,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "10:38",
+          "time": "10:41",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "10:45",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -438,14 +395,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "10:56",
+          "time": "10:59",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "11:04",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -460,14 +425,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "11:14",
+          "time": "11:17",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "11:22",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -482,14 +455,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "11:32",
+          "time": "11:36",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "11:40",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -504,14 +485,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "11:50",
+          "time": "11:55",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "11:58",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -526,14 +515,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "12:08",
+          "time": "12:14",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "12:16",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -548,14 +545,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "12:26",
+          "time": "12:33",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "12:34",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -570,14 +575,14 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "12:44",
+          "time": "12:52",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -592,14 +597,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "13:02",
+          "time": "12:53",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "13:06",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -614,14 +627,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "13:10",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
           ]
         },
         {
           "time": "13:20",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -636,14 +657,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "13:38",
+          "time": "13:25",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "13:34",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -658,14 +687,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "13:56",
+          "time": "13:39",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "13:48",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -680,14 +717,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "14:14",
+          "time": "13:53",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "14:02",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -702,14 +747,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "14:32",
+          "time": "14:08",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "14:16",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -724,14 +777,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "14:49",
+          "time": "14:22",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "14:30",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -746,14 +807,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "15:06",
+          "time": "14:36",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "14:44",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -768,14 +837,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "15:23",
+          "time": "14:50",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "14:58",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -790,14 +867,82 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "15:04",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "15:12",
+          "destination": "Gare de Lyon",
+          "remaining_stops": [
+            "Charenton- Wattignies",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Porte de Reuilly",
+            "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "15:19",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "15:26",
+          "destination": "Gare de Lyon",
+          "remaining_stops": [
+            "Charenton- Wattignies",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Porte de Reuilly",
+            "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "15:33",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
           ]
         },
         {
           "time": "15:40",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -812,14 +957,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "15:57",
+          "time": "15:47",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "15:54",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -834,14 +987,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "16:14",
+          "time": "16:01",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "16:08",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -856,14 +1017,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "16:31",
+          "time": "16:15",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "16:22",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -878,14 +1047,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "16:48",
+          "time": "16:30",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "16:36",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -900,14 +1077,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "17:05",
+          "time": "16:44",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "16:50",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -922,14 +1107,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "17:22",
+          "time": "16:58",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "17:04",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -944,14 +1137,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "17:40",
+          "time": "17:12",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "17:18",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -966,14 +1167,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "17:58",
+          "time": "17:26",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "17:32",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -988,14 +1197,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "18:17",
+          "time": "17:41",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "17:46",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1010,14 +1227,112 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
+            "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "17:55",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "18:00",
+          "destination": "Gare de Lyon",
+          "remaining_stops": [
             "Charenton- Wattignies",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Porte de Reuilly",
+            "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "18:09",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "18:14",
+          "destination": "Gare de Lyon",
+          "remaining_stops": [
+            "Charenton- Wattignies",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Porte de Reuilly",
+            "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "18:23",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "18:28",
+          "destination": "Gare de Lyon",
+          "remaining_stops": [
+            "Charenton- Wattignies",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Porte de Reuilly",
             "Gare de Lyon"
           ]
         },
         {
           "time": "18:36",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "18:42",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1032,14 +1347,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "18:50",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
           ]
         },
         {
           "time": "18:56",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1054,14 +1377,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "19:15",
+          "time": "19:04",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "19:10",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1076,14 +1407,52 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
+            "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "19:19",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "19:24",
+          "destination": "Gare de Lyon",
+          "remaining_stops": [
             "Charenton- Wattignies",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Porte de Reuilly",
             "Gare de Lyon"
           ]
         },
         {
           "time": "19:35",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "19:38",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1098,14 +1467,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "19:55",
+          "time": "19:50",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "19:54",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1120,14 +1497,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "20:15",
+          "time": "20:06",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "20:11",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1142,14 +1527,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "20:35",
+          "time": "20:21",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "20:29",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1164,14 +1557,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "20:55",
+          "time": "20:38",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "20:47",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1186,14 +1587,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "21:15",
+          "time": "20:58",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "21:05",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1208,14 +1617,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "21:40",
+          "time": "21:17",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "21:23",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1230,14 +1647,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "22:05",
+          "time": "21:37",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "21:42",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1252,14 +1677,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "22:30",
+          "time": "21:58",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "22:04",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1274,14 +1707,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "22:55",
+          "time": "22:20",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "22:29",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1296,14 +1737,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "23:20",
+          "time": "22:45",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "22:54",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1318,14 +1767,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "23:45",
+          "time": "23:10",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "23:18",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1340,14 +1797,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "24:09",
+          "time": "23:35",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "23:43",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1362,14 +1827,22 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "24:34",
+          "time": "24:00",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "24:08",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1384,8 +1857,61 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "24:24",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "24:33",
+          "destination": "Gare de Lyon",
+          "remaining_stops": [
+            "Charenton- Wattignies",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Porte de Reuilly",
+            "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "24:49",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "25:14",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "25:39",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Ecole du Breuil",
+            "Joinville-le-Pont RER"
           ]
         }
       ]
@@ -1393,14 +1919,15 @@
   },
   "École du Breuil": {
     "201": {
-      "2025-12-24": []
+      "2025-12-25": []
     },
     "77": {
-      "2025-12-24": [
+      "2025-12-25": [
         {
-          "time": "05:18",
+          "time": "06:17",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1416,14 +1943,14 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "05:43",
+          "time": "06:42",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1439,14 +1966,14 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "06:01",
+          "time": "07:07",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1462,14 +1989,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "06:18",
+          "time": "07:28",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "07:32",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1485,14 +2019,14 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "06:33",
+          "time": "07:52",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1508,14 +2042,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "06:48",
+          "time": "07:54",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "08:12",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1531,14 +2072,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "07:03",
+          "time": "08:14",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "08:32",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1554,37 +2102,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "07:18",
-          "destination": "Gare de Lyon",
+          "time": "08:34",
+          "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
-            "Gravelle - Reuilly",
-            "Gravelle - Liberté",
-            "Gravelle - Jaurès",
-            "Nicolaï",
-            "Hippodrome de Vincennes",
-            "Vacassy - Santé publique",
-            "Plateau de Gravelle",
-            "Route de la Terrasse",
-            "Hôpitaux de Saint-Maurice",
-            "Porte de Charenton",
-            "Wattignies - Gravelle",
-            "Gare de Bercy",
-            "Ministère de l'Economie et des Finances / Gare de Lyon",
-            "Dugommier",
-            "Porte de Reuilly",
-            "Charenton- Wattignies",
-            "Gare de Lyon"
+            "Joinville-le-Pont RER"
           ]
         },
         {
-          "time": "07:33",
+          "time": "08:52",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1600,106 +2132,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
-            "Gare de Lyon"
-          ]
-        },
-        {
-          "time": "07:48",
-          "destination": "Gare de Lyon",
-          "remaining_stops": [
-            "Gravelle - Reuilly",
-            "Gravelle - Liberté",
-            "Gravelle - Jaurès",
-            "Nicolaï",
-            "Hippodrome de Vincennes",
-            "Vacassy - Santé publique",
-            "Plateau de Gravelle",
-            "Route de la Terrasse",
-            "Hôpitaux de Saint-Maurice",
-            "Porte de Charenton",
-            "Wattignies - Gravelle",
-            "Gare de Bercy",
-            "Ministère de l'Economie et des Finances / Gare de Lyon",
-            "Dugommier",
-            "Porte de Reuilly",
-            "Charenton- Wattignies",
-            "Gare de Lyon"
-          ]
-        },
-        {
-          "time": "08:03",
-          "destination": "Gare de Lyon",
-          "remaining_stops": [
-            "Gravelle - Reuilly",
-            "Gravelle - Liberté",
-            "Gravelle - Jaurès",
-            "Nicolaï",
-            "Hippodrome de Vincennes",
-            "Vacassy - Santé publique",
-            "Plateau de Gravelle",
-            "Route de la Terrasse",
-            "Hôpitaux de Saint-Maurice",
-            "Porte de Charenton",
-            "Wattignies - Gravelle",
-            "Gare de Bercy",
-            "Ministère de l'Economie et des Finances / Gare de Lyon",
-            "Dugommier",
-            "Porte de Reuilly",
-            "Charenton- Wattignies",
-            "Gare de Lyon"
-          ]
-        },
-        {
-          "time": "08:19",
-          "destination": "Gare de Lyon",
-          "remaining_stops": [
-            "Gravelle - Reuilly",
-            "Gravelle - Liberté",
-            "Gravelle - Jaurès",
-            "Nicolaï",
-            "Hippodrome de Vincennes",
-            "Vacassy - Santé publique",
-            "Plateau de Gravelle",
-            "Route de la Terrasse",
-            "Hôpitaux de Saint-Maurice",
-            "Porte de Charenton",
-            "Wattignies - Gravelle",
-            "Gare de Bercy",
-            "Ministère de l'Economie et des Finances / Gare de Lyon",
-            "Dugommier",
-            "Porte de Reuilly",
-            "Charenton- Wattignies",
-            "Gare de Lyon"
-          ]
-        },
-        {
-          "time": "08:36",
-          "destination": "Gare de Lyon",
-          "remaining_stops": [
-            "Gravelle - Reuilly",
-            "Gravelle - Liberté",
-            "Gravelle - Jaurès",
-            "Nicolaï",
-            "Hippodrome de Vincennes",
-            "Vacassy - Santé publique",
-            "Plateau de Gravelle",
-            "Route de la Terrasse",
-            "Hôpitaux de Saint-Maurice",
-            "Porte de Charenton",
-            "Wattignies - Gravelle",
-            "Gare de Bercy",
-            "Ministère de l'Economie et des Finances / Gare de Lyon",
-            "Dugommier",
-            "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
           "time": "08:53",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "09:12",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1715,14 +2162,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "09:10",
+          "time": "09:13",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "09:30",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1738,14 +2192,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "09:27",
+          "time": "09:32",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "09:48",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1761,14 +2222,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "09:44",
+          "time": "09:50",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "10:06",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1784,14 +2252,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "10:01",
+          "time": "10:08",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "10:24",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1807,14 +2282,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "10:18",
+          "time": "10:27",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "10:43",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1830,14 +2312,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "10:36",
+          "time": "10:45",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "11:02",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1853,14 +2342,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "10:54",
+          "time": "11:03",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "11:20",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1876,14 +2372,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "11:12",
+          "time": "11:21",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "11:38",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1899,14 +2402,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "11:30",
+          "time": "11:40",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "11:56",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1922,14 +2432,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "11:48",
+          "time": "11:59",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "12:14",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1945,14 +2462,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "12:06",
+          "time": "12:18",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "12:32",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1968,14 +2492,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "12:24",
+          "time": "12:37",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "12:50",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1991,14 +2522,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "12:42",
+          "time": "12:57",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "13:04",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2014,37 +2552,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "13:00",
-          "destination": "Gare de Lyon",
+          "time": "13:14",
+          "destination": "Joinville-le-Pont RER",
           "remaining_stops": [
-            "Gravelle - Reuilly",
-            "Gravelle - Liberté",
-            "Gravelle - Jaurès",
-            "Nicolaï",
-            "Hippodrome de Vincennes",
-            "Vacassy - Santé publique",
-            "Plateau de Gravelle",
-            "Route de la Terrasse",
-            "Hôpitaux de Saint-Maurice",
-            "Porte de Charenton",
-            "Wattignies - Gravelle",
-            "Gare de Bercy",
-            "Ministère de l'Economie et des Finances / Gare de Lyon",
-            "Dugommier",
-            "Porte de Reuilly",
-            "Charenton- Wattignies",
-            "Gare de Lyon"
+            "Joinville-le-Pont RER"
           ]
         },
         {
           "time": "13:18",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2060,14 +2582,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "13:36",
+          "time": "13:29",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "13:32",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2083,14 +2612,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "13:54",
+          "time": "13:43",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "13:46",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2106,14 +2642,51 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
+            "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "13:57",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "14:00",
+          "destination": "Gare de Lyon",
+          "remaining_stops": [
             "Charenton- Wattignies",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Hippodrome de Vincennes",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Porte de Reuilly",
             "Gare de Lyon"
           ]
         },
         {
           "time": "14:12",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "14:14",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2129,14 +2702,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "14:30",
+          "time": "14:26",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "14:28",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2152,14 +2732,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "14:47",
+          "time": "14:40",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "14:42",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2175,14 +2762,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "15:04",
+          "time": "14:54",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "14:56",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2198,14 +2792,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "15:21",
+          "time": "15:08",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "15:10",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2221,14 +2822,51 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "15:23",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "15:24",
+          "destination": "Gare de Lyon",
+          "remaining_stops": [
+            "Charenton- Wattignies",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Hippodrome de Vincennes",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Porte de Reuilly",
+            "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "15:37",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
           ]
         },
         {
           "time": "15:38",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2244,14 +2882,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "15:55",
+          "time": "15:51",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "15:52",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2267,14 +2912,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "16:12",
+          "time": "16:05",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "16:06",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2290,14 +2942,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "16:29",
+          "time": "16:19",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "16:20",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2313,14 +2972,14 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "16:46",
+          "time": "16:34",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2336,14 +2995,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "17:03",
+          "time": "16:34",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "16:48",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2359,14 +3025,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "17:20",
+          "time": "16:48",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "17:02",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2382,14 +3055,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "17:38",
+          "time": "17:02",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "17:16",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2405,14 +3085,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "17:56",
+          "time": "17:16",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "17:30",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2428,14 +3115,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "18:15",
+          "time": "17:30",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "17:44",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2451,14 +3145,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "18:34",
+          "time": "17:45",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "17:58",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2474,14 +3175,111 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "17:59",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "18:12",
+          "destination": "Gare de Lyon",
+          "remaining_stops": [
+            "Charenton- Wattignies",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Hippodrome de Vincennes",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Porte de Reuilly",
+            "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "18:13",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "18:26",
+          "destination": "Gare de Lyon",
+          "remaining_stops": [
+            "Charenton- Wattignies",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Hippodrome de Vincennes",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Porte de Reuilly",
+            "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "18:27",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "18:40",
+          "destination": "Gare de Lyon",
+          "remaining_stops": [
+            "Charenton- Wattignies",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Hippodrome de Vincennes",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Porte de Reuilly",
+            "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "18:40",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
           ]
         },
         {
           "time": "18:54",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2497,14 +3295,28 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "19:13",
+          "time": "18:54",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "19:07",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "19:08",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2520,14 +3332,14 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "19:33",
+          "time": "19:22",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2543,14 +3355,81 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
+            "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "19:23",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "19:36",
+          "destination": "Gare de Lyon",
+          "remaining_stops": [
             "Charenton- Wattignies",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Hippodrome de Vincennes",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Porte de Reuilly",
+            "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "19:38",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "19:52",
+          "destination": "Gare de Lyon",
+          "remaining_stops": [
+            "Charenton- Wattignies",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès",
+            "Nicolaï",
+            "Hippodrome de Vincennes",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Ministère de l'Economie et des Finances / Gare de Lyon",
+            "Dugommier",
+            "Porte de Reuilly",
             "Gare de Lyon"
           ]
         },
         {
           "time": "19:53",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "20:09",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2566,14 +3445,28 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "20:13",
+          "time": "20:09",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "20:24",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "20:27",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2589,14 +3482,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "20:33",
+          "time": "20:41",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "20:45",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2612,14 +3512,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "20:53",
+          "time": "21:01",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "21:03",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2635,14 +3542,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "21:13",
+          "time": "21:20",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "21:21",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2658,14 +3572,14 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "21:38",
+          "time": "21:40",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2681,14 +3595,28 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "22:03",
+          "time": "21:40",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "22:01",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "22:02",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2704,14 +3632,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "22:28",
+          "time": "22:23",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "22:27",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2727,14 +3662,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "22:53",
+          "time": "22:48",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "22:52",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2750,14 +3692,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "23:18",
+          "time": "23:13",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "23:16",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2773,14 +3722,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "23:43",
+          "time": "23:38",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "23:41",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2796,14 +3752,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "24:07",
+          "time": "24:03",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "24:06",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2819,14 +3782,21 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
           ]
         },
         {
-          "time": "24:32",
+          "time": "24:27",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "24:31",
           "destination": "Gare de Lyon",
           "remaining_stops": [
+            "Charenton- Wattignies",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2842,8 +3812,28 @@
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
             "Porte de Reuilly",
-            "Charenton- Wattignies",
             "Gare de Lyon"
+          ]
+        },
+        {
+          "time": "24:52",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "25:17",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "25:42",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
           ]
         }
       ]
@@ -2851,7 +3841,7 @@
   },
   "Joinville-le-Pont": {
     "RER A": {
-      "2025-12-24": []
+      "2025-12-25": []
     }
   }
 }
