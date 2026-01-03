@@ -1,12 +1,11 @@
 {
   "Hippodrome de Vincennes": {
     "77": {
-      "2026-01-02": [
+      "2026-01-03": [
         {
           "time": "05:20",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -20,6 +19,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -28,7 +28,6 @@
           "time": "05:40",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -42,6 +41,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -50,7 +50,6 @@
           "time": "06:00",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -64,6 +63,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -72,7 +72,6 @@
           "time": "06:20",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -86,6 +85,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -102,7 +102,6 @@
           "time": "06:40",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -116,6 +115,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -132,7 +132,6 @@
           "time": "07:00",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -146,6 +145,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -162,7 +162,6 @@
           "time": "07:18",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -176,6 +175,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -192,7 +192,6 @@
           "time": "07:36",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -206,6 +205,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -222,7 +222,6 @@
           "time": "07:54",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -236,6 +235,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -252,7 +252,6 @@
           "time": "08:12",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -266,6 +265,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -282,7 +282,6 @@
           "time": "08:30",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -296,6 +295,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -312,7 +312,6 @@
           "time": "08:48",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -326,6 +325,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -334,7 +334,6 @@
           "time": "09:06",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -348,6 +347,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -364,7 +364,6 @@
           "time": "09:24",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -378,6 +377,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -394,7 +394,6 @@
           "time": "09:45",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -408,6 +407,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -424,7 +424,6 @@
           "time": "10:04",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -438,6 +437,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -454,7 +454,6 @@
           "time": "10:23",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -468,6 +467,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -484,7 +484,6 @@
           "time": "10:42",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -498,6 +497,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -514,7 +514,6 @@
           "time": "11:01",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -528,6 +527,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -544,7 +544,6 @@
           "time": "11:20",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -558,6 +557,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -574,7 +574,6 @@
           "time": "11:39",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -588,6 +587,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -604,7 +604,6 @@
           "time": "11:58",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -618,6 +617,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -634,7 +634,6 @@
           "time": "12:17",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -648,6 +647,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -664,7 +664,6 @@
           "time": "12:36",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -678,6 +677,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -694,7 +694,6 @@
           "time": "12:52",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -708,6 +707,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -724,7 +724,6 @@
           "time": "13:08",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -738,6 +737,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -754,7 +754,6 @@
           "time": "13:24",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -768,6 +767,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -784,7 +784,6 @@
           "time": "13:40",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -798,6 +797,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -814,7 +814,6 @@
           "time": "13:55",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -828,6 +827,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -844,7 +844,6 @@
           "time": "14:10",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -858,6 +857,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -874,7 +874,6 @@
           "time": "14:25",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -888,6 +887,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -904,7 +904,6 @@
           "time": "14:40",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -918,6 +917,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -934,7 +934,6 @@
           "time": "14:55",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -948,6 +947,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -964,7 +964,6 @@
           "time": "15:10",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -978,6 +977,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -994,7 +994,6 @@
           "time": "15:25",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1008,6 +1007,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1024,7 +1024,6 @@
           "time": "15:40",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1038,6 +1037,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1054,7 +1054,6 @@
           "time": "15:55",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1068,6 +1067,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1084,7 +1084,6 @@
           "time": "16:10",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1098,6 +1097,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1114,7 +1114,6 @@
           "time": "16:25",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1128,6 +1127,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1144,7 +1144,6 @@
           "time": "16:40",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1158,6 +1157,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1174,7 +1174,6 @@
           "time": "16:55",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1188,6 +1187,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1204,7 +1204,6 @@
           "time": "17:10",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1218,6 +1217,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1234,7 +1234,6 @@
           "time": "17:25",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1248,6 +1247,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1264,7 +1264,6 @@
           "time": "17:40",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1278,6 +1277,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1294,7 +1294,6 @@
           "time": "17:55",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1308,6 +1307,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1324,7 +1324,6 @@
           "time": "18:10",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1338,6 +1337,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1354,7 +1354,6 @@
           "time": "18:25",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1368,6 +1367,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1384,7 +1384,6 @@
           "time": "18:40",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1398,6 +1397,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1414,7 +1414,6 @@
           "time": "18:55",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1428,6 +1427,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1444,7 +1444,6 @@
           "time": "19:10",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1458,6 +1457,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1474,7 +1474,6 @@
           "time": "19:25",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1488,6 +1487,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1504,7 +1504,6 @@
           "time": "19:41",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1518,6 +1517,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1534,7 +1534,6 @@
           "time": "20:02",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1548,6 +1547,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1564,7 +1564,6 @@
           "time": "20:27",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1578,6 +1577,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1594,7 +1594,6 @@
           "time": "20:51",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1608,6 +1607,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1632,7 +1632,6 @@
           "time": "21:16",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1646,6 +1645,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1662,7 +1662,6 @@
           "time": "21:40",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1676,6 +1675,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1692,7 +1692,6 @@
           "time": "22:05",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1706,6 +1705,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1722,7 +1722,6 @@
           "time": "22:30",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1736,6 +1735,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1752,7 +1752,6 @@
           "time": "22:55",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1766,6 +1765,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1782,7 +1782,6 @@
           "time": "23:20",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1796,6 +1795,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1812,7 +1812,6 @@
           "time": "23:45",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1826,6 +1825,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1842,7 +1842,6 @@
           "time": "24:10",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1856,6 +1855,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1872,7 +1872,6 @@
           "time": "24:35",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1886,6 +1885,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1919,15 +1919,1756 @@
   },
   "École du Breuil": {
     "201": {
-      "2026-01-02": []
+      "2026-01-03": [
+        {
+          "time": "06:03",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "06:27",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "06:33",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "06:36",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "06:57",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "06:58",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "07:19",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "07:19",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "07:40",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "07:40",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "08:01",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "08:01",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "08:21",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "08:22",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "08:42",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "08:43",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "09:03",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "09:04",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "09:24",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "09:25",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "09:45",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "09:46",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "10:06",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "10:07",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "10:27",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "10:28",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "10:48",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "10:49",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "11:10",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "11:10",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "11:31",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "11:31",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "11:52",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "11:52",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "12:13",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "12:13",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "12:33",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "12:43",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "12:59",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "13:14",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "13:29",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "13:44",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "13:59",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "14:14",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "14:25",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "14:44",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "14:49",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "15:09",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "15:10",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "15:29",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "15:31",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "15:34",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "15:51",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "15:56",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "16:11",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "16:16",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "16:28",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "16:33",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "16:44",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "16:48",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "16:59",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "17:02",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "17:11",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "17:16",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "17:23",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "17:28",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "17:35",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "17:40",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "17:47",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "17:52",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "18:00",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "18:04",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "18:13",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "18:16",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "18:26",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "18:28",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "18:39",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "18:41",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "18:52",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "18:54",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "19:05",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "19:07",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "19:19",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "19:20",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "19:33",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "19:34",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "19:48",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "19:49",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "20:03",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "20:03",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "20:18",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "20:18",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "20:33",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "20:33",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "20:46",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "20:49",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "21:01",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "21:05",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "21:16",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "21:24",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "21:31",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "21:42",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "21:46",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "22:02",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "22:04",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "22:22",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "22:24",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        },
+        {
+          "time": "22:42",
+          "destination": "Champigny - Diderot - La Plage",
+          "remaining_stops": [
+            "Diane",
+            "Jacques Decour",
+            "Verdun - La Plage",
+            "Verdun - Charles Floquet",
+            "Bel Air",
+            "Champigny - Diderot - La Plage",
+            "Dagoty",
+            "Verdun",
+            "Joinville-le-Pont RER",
+            "Carrefour de la Résistance",
+            "Charles Floquet - Diderot"
+          ]
+        },
+        {
+          "time": "22:44",
+          "destination": "Porte Dorée",
+          "remaining_stops": [
+            "Stade Léo Lagrange",
+            "Plaine de la Faluère",
+            "Demi Lune - Parc Zoologique",
+            "Mortemart",
+            "Pyramide - Parc Floral",
+            "Porte Dorée",
+            "Parc Zoologique",
+            "Alphand",
+            "Tourelle - Daumesnil"
+          ]
+        }
+      ]
     },
     "77": {
-      "2026-01-02": [
+      "2026-01-03": [
         {
           "time": "05:18",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1942,6 +3683,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1950,7 +3692,6 @@
           "time": "05:38",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1965,6 +3706,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1973,7 +3715,6 @@
           "time": "05:58",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -1988,6 +3729,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -1996,7 +3738,6 @@
           "time": "06:18",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2011,6 +3752,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2026,7 +3768,6 @@
           "time": "06:38",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2041,6 +3782,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2056,7 +3798,6 @@
           "time": "06:58",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2071,6 +3812,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2086,7 +3828,6 @@
           "time": "07:16",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2101,6 +3842,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2116,7 +3858,6 @@
           "time": "07:34",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2131,6 +3872,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2146,7 +3888,6 @@
           "time": "07:52",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2161,6 +3902,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2169,7 +3911,6 @@
           "time": "08:10",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2184,6 +3925,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2199,7 +3941,6 @@
           "time": "08:28",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2214,6 +3955,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2229,7 +3971,6 @@
           "time": "08:46",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2244,6 +3985,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2259,7 +4001,6 @@
           "time": "09:04",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2274,6 +4015,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2289,7 +4031,6 @@
           "time": "09:22",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2304,6 +4045,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2319,7 +4061,6 @@
           "time": "09:42",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2334,6 +4075,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2349,7 +4091,6 @@
           "time": "10:01",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2364,6 +4105,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2379,7 +4121,6 @@
           "time": "10:20",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2394,6 +4135,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2409,7 +4151,6 @@
           "time": "10:39",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2424,6 +4165,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2439,7 +4181,6 @@
           "time": "10:58",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2454,6 +4195,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2469,7 +4211,6 @@
           "time": "11:17",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2484,6 +4225,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2499,7 +4241,6 @@
           "time": "11:36",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2514,6 +4255,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2529,7 +4271,6 @@
           "time": "11:55",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2544,6 +4285,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2559,7 +4301,6 @@
           "time": "12:14",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2574,6 +4315,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2589,7 +4331,6 @@
           "time": "12:33",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2604,6 +4345,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2619,7 +4361,6 @@
           "time": "12:49",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2634,6 +4375,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2649,7 +4391,6 @@
           "time": "13:05",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2664,6 +4405,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2679,7 +4421,6 @@
           "time": "13:21",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2694,6 +4435,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2709,7 +4451,6 @@
           "time": "13:37",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2724,6 +4465,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2739,7 +4481,6 @@
           "time": "13:52",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2754,6 +4495,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2762,7 +4504,6 @@
           "time": "14:07",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2777,6 +4518,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2792,7 +4534,6 @@
           "time": "14:22",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2807,6 +4548,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2822,7 +4564,6 @@
           "time": "14:37",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2837,6 +4578,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2852,7 +4594,6 @@
           "time": "14:52",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2867,6 +4608,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2882,7 +4624,6 @@
           "time": "15:07",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2897,6 +4638,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2912,7 +4654,6 @@
           "time": "15:22",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2927,6 +4668,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2942,7 +4684,6 @@
           "time": "15:37",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2957,6 +4698,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -2972,7 +4714,6 @@
           "time": "15:52",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -2987,6 +4728,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -3002,7 +4744,6 @@
           "time": "16:07",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -3017,6 +4758,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -3032,7 +4774,6 @@
           "time": "16:22",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -3047,6 +4788,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -3062,7 +4804,6 @@
           "time": "16:37",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -3077,6 +4818,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -3092,7 +4834,6 @@
           "time": "16:52",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -3107,6 +4848,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -3122,7 +4864,6 @@
           "time": "17:07",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -3137,6 +4878,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -3152,7 +4894,6 @@
           "time": "17:22",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -3167,6 +4908,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -3182,7 +4924,6 @@
           "time": "17:37",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -3197,6 +4938,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -3212,7 +4954,6 @@
           "time": "17:52",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -3227,6 +4968,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -3242,7 +4984,6 @@
           "time": "18:07",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -3257,6 +4998,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -3272,7 +5014,6 @@
           "time": "18:22",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -3287,6 +5028,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -3302,7 +5044,6 @@
           "time": "18:37",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -3317,6 +5058,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -3332,7 +5074,6 @@
           "time": "18:52",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -3347,6 +5088,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -3362,7 +5104,6 @@
           "time": "19:07",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -3377,6 +5118,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -3392,7 +5134,6 @@
           "time": "19:22",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -3407,6 +5148,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -3422,7 +5164,6 @@
           "time": "19:38",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -3437,6 +5178,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -3459,7 +5201,6 @@
           "time": "19:59",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -3474,6 +5215,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -3489,7 +5231,6 @@
           "time": "20:24",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -3504,6 +5245,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -3519,7 +5261,6 @@
           "time": "20:49",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -3534,6 +5275,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -3556,7 +5298,6 @@
           "time": "21:14",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -3571,6 +5312,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -3586,7 +5328,6 @@
           "time": "21:38",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -3601,6 +5342,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -3616,7 +5358,6 @@
           "time": "22:03",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -3631,6 +5372,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -3646,7 +5388,6 @@
           "time": "22:28",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -3661,6 +5402,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -3676,7 +5418,6 @@
           "time": "22:53",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -3691,6 +5432,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -3706,7 +5448,6 @@
           "time": "23:18",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -3721,6 +5462,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -3736,7 +5478,6 @@
           "time": "23:43",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -3751,6 +5492,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -3766,7 +5508,6 @@
           "time": "24:08",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -3781,6 +5522,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -3796,7 +5538,6 @@
           "time": "24:33",
           "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Porte de Reuilly",
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès",
@@ -3811,6 +5552,7 @@
             "Gare de Bercy",
             "Ministère de l'Economie et des Finances / Gare de Lyon",
             "Dugommier",
+            "Porte de Reuilly",
             "Charenton- Wattignies",
             "Gare de Lyon"
           ]
@@ -3841,7 +5583,7 @@
   },
   "Joinville-le-Pont": {
     "RER A": {
-      "2026-01-02": []
+      "2026-01-03": []
     }
   }
 }
