@@ -1,7 +1,7 @@
 {
   "Hippodrome de Vincennes": {
     "77": {
-      "2026-05-18": [
+      "2026-05-19": [
         {
           "time": "05:20",
           "destination": "Gare de Lyon",
@@ -1897,13 +1897,13 @@
   },
   "École du Breuil": {
     "201": {
-      "2026-05-18": [
+      "2026-05-19": [
         {
           "time": "05:30",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -1934,8 +1934,8 @@
           "time": "05:52",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -1966,8 +1966,8 @@
           "time": "06:08",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -1998,8 +1998,8 @@
           "time": "06:19",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2030,8 +2030,8 @@
           "time": "06:28",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2062,8 +2062,8 @@
           "time": "06:37",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2094,8 +2094,8 @@
           "time": "06:46",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2126,8 +2126,8 @@
           "time": "06:56",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2175,8 +2175,8 @@
           "time": "07:06",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2207,8 +2207,8 @@
           "time": "07:16",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2239,8 +2239,8 @@
           "time": "07:24",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2271,8 +2271,8 @@
           "time": "07:33",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2303,8 +2303,8 @@
           "time": "07:41",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2335,8 +2335,8 @@
           "time": "07:49",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2367,8 +2367,8 @@
           "time": "07:57",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2399,8 +2399,8 @@
           "time": "08:05",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2431,8 +2431,8 @@
           "time": "08:13",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2463,8 +2463,8 @@
           "time": "08:23",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2478,8 +2478,8 @@
           "time": "08:32",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2510,8 +2510,8 @@
           "time": "08:41",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2542,8 +2542,8 @@
           "time": "08:50",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2574,8 +2574,8 @@
           "time": "08:59",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2606,8 +2606,8 @@
           "time": "09:07",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2638,8 +2638,8 @@
           "time": "09:16",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2670,8 +2670,8 @@
           "time": "09:26",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2702,8 +2702,8 @@
           "time": "09:35",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2734,8 +2734,8 @@
           "time": "09:45",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2766,8 +2766,8 @@
           "time": "09:55",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2798,8 +2798,8 @@
           "time": "10:04",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2830,8 +2830,8 @@
           "time": "10:14",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2862,8 +2862,8 @@
           "time": "10:24",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2877,8 +2877,8 @@
           "time": "10:33",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2909,8 +2909,8 @@
           "time": "10:44",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2941,8 +2941,8 @@
           "time": "10:58",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -2973,8 +2973,8 @@
           "time": "11:11",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3005,8 +3005,8 @@
           "time": "11:25",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3037,8 +3037,8 @@
           "time": "11:39",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3069,8 +3069,8 @@
           "time": "11:52",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3101,8 +3101,8 @@
           "time": "12:07",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3133,8 +3133,8 @@
           "time": "12:21",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3165,8 +3165,8 @@
           "time": "12:35",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3197,8 +3197,8 @@
           "time": "12:49",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3229,8 +3229,8 @@
           "time": "13:03",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3261,8 +3261,8 @@
           "time": "13:17",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3293,8 +3293,8 @@
           "time": "13:31",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3325,8 +3325,8 @@
           "time": "13:45",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3357,8 +3357,8 @@
           "time": "13:59",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3389,8 +3389,8 @@
           "time": "14:13",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3421,8 +3421,8 @@
           "time": "14:27",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3453,8 +3453,8 @@
           "time": "14:41",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3485,8 +3485,8 @@
           "time": "14:55",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3517,8 +3517,8 @@
           "time": "15:09",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3549,8 +3549,8 @@
           "time": "15:23",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3581,8 +3581,8 @@
           "time": "15:37",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3613,8 +3613,8 @@
           "time": "15:51",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3645,8 +3645,8 @@
           "time": "16:05",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3677,8 +3677,8 @@
           "time": "16:20",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3709,8 +3709,8 @@
           "time": "16:32",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3741,8 +3741,8 @@
           "time": "16:44",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3773,8 +3773,8 @@
           "time": "16:56",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3805,8 +3805,8 @@
           "time": "17:09",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3837,8 +3837,8 @@
           "time": "17:21",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3886,8 +3886,8 @@
           "time": "17:33",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3918,8 +3918,8 @@
           "time": "17:44",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3950,8 +3950,8 @@
           "time": "17:56",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -3982,8 +3982,8 @@
           "time": "18:06",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -4014,8 +4014,8 @@
           "time": "18:16",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -4046,8 +4046,8 @@
           "time": "18:26",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -4078,8 +4078,8 @@
           "time": "18:36",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -4110,8 +4110,8 @@
           "time": "18:46",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -4142,8 +4142,8 @@
           "time": "18:56",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -4174,8 +4174,8 @@
           "time": "19:06",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -4206,8 +4206,8 @@
           "time": "19:14",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -4238,8 +4238,8 @@
           "time": "19:24",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -4270,8 +4270,8 @@
           "time": "19:34",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -4302,8 +4302,8 @@
           "time": "19:43",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -4334,8 +4334,8 @@
           "time": "19:53",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -4366,8 +4366,8 @@
           "time": "20:05",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -4398,8 +4398,8 @@
           "time": "20:17",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -4430,8 +4430,8 @@
           "time": "20:29",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -4462,8 +4462,8 @@
           "time": "20:41",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -4494,8 +4494,8 @@
           "time": "20:53",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -4526,8 +4526,8 @@
           "time": "21:05",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -4558,8 +4558,8 @@
           "time": "21:16",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -4573,8 +4573,8 @@
           "time": "21:29",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -4605,8 +4605,8 @@
           "time": "21:42",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -4637,8 +4637,8 @@
           "time": "22:02",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -4669,8 +4669,8 @@
           "time": "22:21",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -4684,8 +4684,8 @@
           "time": "22:41",
           "destination": "Porte Dorée",
           "remaining_stops": [
-            "Plaine de la Faluère",
             "Stade Léo Lagrange",
+            "Plaine de la Faluère",
             "Demi Lune - Parc Zoologique",
             "Mortemart",
             "Pyramide - Parc Floral",
@@ -4715,7 +4715,7 @@
       ]
     },
     "77": {
-      "2026-05-18": [
+      "2026-05-19": [
         {
           "time": "05:18",
           "destination": "Gare de Lyon",
@@ -6611,7 +6611,7 @@
   },
   "Joinville-le-Pont": {
     "RER A": {
-      "2026-05-18": []
+      "2026-05-19": []
     }
   }
 }
