@@ -1,7 +1,7 @@
 {
   "Hippodrome de Vincennes": {
     "77": {
-      "2026-07-30": [
+      "2026-07-31": [
         {
           "time": "05:18",
           "destination": "Gare de Lyon",
@@ -1180,6 +1180,14 @@
         },
         {
           "time": "19:54",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER",
+            "École du Breuil"
+          ]
+        },
+        {
+          "time": "19:54",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Dugommier",
@@ -1198,14 +1206,6 @@
             "Wattignies - Gravelle",
             "Ministère de l'Economie et des Finances",
             "Gare de Bercy"
-          ]
-        },
-        {
-          "time": "19:54",
-          "destination": "Joinville-le-Pont RER",
-          "remaining_stops": [
-            "Joinville-le-Pont RER",
-            "École du Breuil"
           ]
         },
         {
@@ -1575,7 +1575,7 @@
   },
   "École du Breuil": {
     "201": {
-      "2026-07-30": [
+      "2026-07-31": [
         {
           "time": "05:30",
           "destination": "Porte Dorée",
@@ -3706,7 +3706,7 @@
       ]
     },
     "77": {
-      "2026-07-30": [
+      "2026-07-31": [
         {
           "time": "05:17",
           "destination": "Gare de Lyon",
@@ -3891,6 +3891,13 @@
         },
         {
           "time": "07:44",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "07:44",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Dugommier",
@@ -3910,13 +3917,6 @@
             "Wattignies - Gravelle",
             "Ministère de l'Economie et des Finances",
             "Gare de Bercy"
-          ]
-        },
-        {
-          "time": "07:44",
-          "destination": "Joinville-le-Pont RER",
-          "remaining_stops": [
-            "Joinville-le-Pont RER"
           ]
         },
         {
@@ -4761,6 +4761,13 @@
         },
         {
           "time": "18:13",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
+          ]
+        },
+        {
+          "time": "18:13",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Dugommier",
@@ -4780,13 +4787,6 @@
             "Wattignies - Gravelle",
             "Ministère de l'Economie et des Finances",
             "Gare de Bercy"
-          ]
-        },
-        {
-          "time": "18:13",
-          "destination": "Joinville-le-Pont RER",
-          "remaining_stops": [
-            "Joinville-le-Pont RER"
           ]
         },
         {
@@ -5279,7 +5279,7 @@
   },
   "Joinville-le-Pont": {
     "RER A": {
-      "2026-07-30": []
+      "2026-07-31": []
     }
   }
 }
