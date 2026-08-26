@@ -1,7 +1,7 @@
 {
   "Hippodrome de Vincennes": {
     "77": {
-      "2026-08-25": [
+      "2026-08-26": [
         {
           "time": "05:18",
           "destination": "Gare de Lyon",
@@ -1777,7 +1777,7 @@
   },
   "École du Breuil": {
     "201": {
-      "2026-08-25": [
+      "2026-08-26": [
         {
           "time": "05:30",
           "destination": "Porte Dorée",
@@ -4595,7 +4595,7 @@
       ]
     },
     "77": {
-      "2026-08-25": [
+      "2026-08-26": [
         {
           "time": "05:17",
           "destination": "Gare de Lyon",
@@ -4690,13 +4690,6 @@
         },
         {
           "time": "06:32",
-          "destination": "Joinville-le-Pont RER",
-          "remaining_stops": [
-            "Joinville-le-Pont RER"
-          ]
-        },
-        {
-          "time": "06:32",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Nicolaï",
@@ -4716,6 +4709,13 @@
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès"
+          ]
+        },
+        {
+          "time": "06:32",
+          "destination": "Joinville-le-Pont RER",
+          "remaining_stops": [
+            "Joinville-le-Pont RER"
           ]
         },
         {
@@ -6371,7 +6371,7 @@
   },
   "Joinville-le-Pont": {
     "RER A": {
-      "2026-08-25": []
+      "2026-08-26": []
     }
   }
 }
