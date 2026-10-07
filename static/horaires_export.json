@@ -1,7 +1,7 @@
 {
   "Hippodrome de Vincennes": {
     "77": {
-      "2026-10-06": [
+      "2026-10-07": [
         {
           "time": "05:20",
           "destination": "Gare de Lyon",
@@ -1442,14 +1442,6 @@
         },
         {
           "time": "19:35",
-          "destination": "Gare de Joinville-le-Pont",
-          "remaining_stops": [
-            "École du Breuil",
-            "Gare de Joinville-le-Pont"
-          ]
-        },
-        {
-          "time": "19:35",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Nicolaï",
@@ -1468,6 +1460,14 @@
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès"
+          ]
+        },
+        {
+          "time": "19:35",
+          "destination": "Gare de Joinville-le-Pont",
+          "remaining_stops": [
+            "École du Breuil",
+            "Gare de Joinville-le-Pont"
           ]
         },
         {
@@ -1897,10 +1897,10 @@
   },
   "École du Breuil": {
     "201": {
-      "2026-10-06": []
+      "2026-10-07": []
     },
     "77": {
-      "2026-10-06": [
+      "2026-10-07": [
         {
           "time": "05:18",
           "destination": "Gare de Lyon",
@@ -2498,13 +2498,6 @@
         },
         {
           "time": "11:12",
-          "destination": "Gare de Joinville-le-Pont",
-          "remaining_stops": [
-            "Gare de Joinville-le-Pont"
-          ]
-        },
-        {
-          "time": "11:12",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Nicolaï",
@@ -2524,6 +2517,13 @@
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès"
+          ]
+        },
+        {
+          "time": "11:12",
+          "destination": "Gare de Joinville-le-Pont",
+          "remaining_stops": [
+            "Gare de Joinville-le-Pont"
           ]
         },
         {
@@ -3128,13 +3128,6 @@
         },
         {
           "time": "17:20",
-          "destination": "Gare de Joinville-le-Pont",
-          "remaining_stops": [
-            "Gare de Joinville-le-Pont"
-          ]
-        },
-        {
-          "time": "17:20",
           "destination": "Gare de Lyon",
           "remaining_stops": [
             "Nicolaï",
@@ -3154,6 +3147,13 @@
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès"
+          ]
+        },
+        {
+          "time": "17:20",
+          "destination": "Gare de Joinville-le-Pont",
+          "remaining_stops": [
+            "Gare de Joinville-le-Pont"
           ]
         },
         {
@@ -3435,36 +3435,29 @@
         },
         {
           "time": "20:33",
-          "destination": "Gare de Joinville-le-Pont",
+          "destination": "Gare de Lyon",
           "remaining_stops": [
-            "Gare de Joinville-le-Pont"
+            "Nicolaï",
+            "Hippodrome de Vincennes",
+            "Vacassy - Santé publique",
+            "Plateau de Gravelle",
+            "Route de la Terrasse",
+            "Hôpitaux de Saint-Maurice",
+            "Porte de Charenton",
+            "Wattignies - Gravelle",
+            "Gare de Bercy",
+            "Ministère de l'Economie et des Finances",
+            "Dugommier",
+            "Porte de Reuilly",
+            "Gare de Lyon",
+            "Charenton - Wattignies",
+            "Gravelle - Reuilly",
+            "Gravelle - Liberté",
+            "Gravelle - Jaurès"
           ]
         },
         {
           "time": "20:33",
-          "destination": "Gare de Lyon",
-          "remaining_stops": [
-            "Nicolaï",
-            "Hippodrome de Vincennes",
-            "Vacassy - Santé publique",
-            "Plateau de Gravelle",
-            "Route de la Terrasse",
-            "Hôpitaux de Saint-Maurice",
-            "Porte de Charenton",
-            "Wattignies - Gravelle",
-            "Gare de Bercy",
-            "Ministère de l'Economie et des Finances",
-            "Dugommier",
-            "Porte de Reuilly",
-            "Gare de Lyon",
-            "Charenton - Wattignies",
-            "Gravelle - Reuilly",
-            "Gravelle - Liberté",
-            "Gravelle - Jaurès"
-          ]
-        },
-        {
-          "time": "20:53",
           "destination": "Gare de Joinville-le-Pont",
           "remaining_stops": [
             "Gare de Joinville-le-Pont"
@@ -3494,7 +3487,7 @@
           ]
         },
         {
-          "time": "21:13",
+          "time": "20:53",
           "destination": "Gare de Joinville-le-Pont",
           "remaining_stops": [
             "Gare de Joinville-le-Pont"
@@ -3521,6 +3514,13 @@
             "Gravelle - Reuilly",
             "Gravelle - Liberté",
             "Gravelle - Jaurès"
+          ]
+        },
+        {
+          "time": "21:13",
+          "destination": "Gare de Joinville-le-Pont",
+          "remaining_stops": [
+            "Gare de Joinville-le-Pont"
           ]
         },
         {
@@ -3796,7 +3796,7 @@
   },
   "Joinville-le-Pont": {
     "RER A": {
-      "2026-10-06": []
+      "2026-10-07": []
     }
   }
 }
